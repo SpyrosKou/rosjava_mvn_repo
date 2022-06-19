@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_bootstrap",
+    "module": "message_generation",
+    "version": "noetic-0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "message_generation-noetic-0.1.jar",
+          "url": "message_generation-noetic-0.1.jar",
+          "size": 133790,
+          "sha512": "ab98f158e0aedf9900a98ed00d2a10c4f9614ccdbbadfa95d297b5326bcaf6b85f95019dd43749794104151ecb28ec5862affaf0d3a83c65307d2fabb17d2b79",
+          "sha256": "574a1bb3828d29452af9523b9647fb7ed19e43131cd6da9c2ee462c3eed5bf5b",
+          "sha1": "092946fe084c1b42b8f90dc39f6966c58ac5d225",
+          "md5": "aca75b406de3137978e109848562c58b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.netty",
+          "module": "netty",
+          "version": {
+            "requires": "3.5.2.Final"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "31.1-jre"
+          }
+        },
+        {
+          "group": "commons-codec",
+          "module": "commons-codec",
+          "version": {
+            "requires": "1.15"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "commons-pool",
+          "module": "commons-pool",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.12.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "message_generation-noetic-0.1.jar",
+          "url": "message_generation-noetic-0.1.jar",
+          "size": 133790,
+          "sha512": "ab98f158e0aedf9900a98ed00d2a10c4f9614ccdbbadfa95d297b5326bcaf6b85f95019dd43749794104151ecb28ec5862affaf0d3a83c65307d2fabb17d2b79",
+          "sha256": "574a1bb3828d29452af9523b9647fb7ed19e43131cd6da9c2ee462c3eed5bf5b",
+          "sha1": "092946fe084c1b42b8f90dc39f6966c58ac5d225",
+          "md5": "aca75b406de3137978e109848562c58b"
+        }
+      ]
+    }
+  ]
+}
