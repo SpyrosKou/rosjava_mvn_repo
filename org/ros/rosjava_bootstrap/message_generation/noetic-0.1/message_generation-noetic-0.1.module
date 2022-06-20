@@ -27,11 +27,11 @@
         {
           "name": "message_generation-noetic-0.1.jar",
           "url": "message_generation-noetic-0.1.jar",
-          "size": 133790,
-          "sha512": "03e8a21bf06c1bbe53562846adb43960314da6c2bb3317693e7b7ef05a31a05741dde5f854d1da58bc1647d2f6e3a80b393996d1fa62b772d1fd3e31b0ef2070",
-          "sha256": "91c05447773e0f0fc31821852bfcd21e01324588f674a066aae02a5b6863243d",
-          "sha1": "2efaf19e3cabefb5982410c925229d08857d5011",
-          "md5": "ec5b4c002e12446ec48d2416c5b35ee4"
+          "size": 133196,
+          "sha512": "cd3de34dda6f7fb21fef852c4c4be2975cf40c4ee7cd8534339b8e5181b97d4f24e340cfd4e1fe799726539af1767094567c62113f22ffe0b7ef06ea79f831f6",
+          "sha256": "d72b3b4d28f2075646ce63a4054a1652c8355d2a5a612b4fac1f27a051dea7bc",
+          "sha1": "7c7c16efd387e178f70056e43ea01e3c5be0f8f9",
+          "md5": "5e53ced63421743be95a292da814aa24"
         }
       ]
     },
@@ -49,7 +49,7 @@
           "group": "io.netty",
           "module": "netty",
           "version": {
-            "requires": "3.5.2.Final"
+            "requires": "3.10.6.Final"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "message_generation-noetic-0.1.jar",
           "url": "message_generation-noetic-0.1.jar",
-          "size": 133790,
-          "sha512": "03e8a21bf06c1bbe53562846adb43960314da6c2bb3317693e7b7ef05a31a05741dde5f854d1da58bc1647d2f6e3a80b393996d1fa62b772d1fd3e31b0ef2070",
-          "sha256": "91c05447773e0f0fc31821852bfcd21e01324588f674a066aae02a5b6863243d",
-          "sha1": "2efaf19e3cabefb5982410c925229d08857d5011",
-          "md5": "ec5b4c002e12446ec48d2416c5b35ee4"
+          "size": 133196,
+          "sha512": "cd3de34dda6f7fb21fef852c4c4be2975cf40c4ee7cd8534339b8e5181b97d4f24e340cfd4e1fe799726539af1767094567c62113f22ffe0b7ef06ea79f831f6",
+          "sha256": "d72b3b4d28f2075646ce63a4054a1652c8355d2a5a612b4fac1f27a051dea7bc",
+          "sha1": "7c7c16efd387e178f70056e43ea01e3c5be0f8f9",
+          "md5": "5e53ced63421743be95a292da814aa24"
         }
       ]
     }
