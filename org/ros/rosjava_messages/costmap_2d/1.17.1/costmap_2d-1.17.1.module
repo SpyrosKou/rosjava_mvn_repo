@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -86,10 +86,10 @@
           "name": "costmap_2d-1.17.1.jar",
           "url": "costmap_2d-1.17.1.jar",
           "size": 952,
-          "sha512": "a948315d135c1ccfa95dff1c547a4a8db02aaa8fdefd22c3ad86b6c9820a1e9a86fdbf421800bc199b9748e9b6e341e8f99c3c2285e9b2b0b21cefaf46c41bf8",
-          "sha256": "5da475cadc4d66d95c6d3e5ed4e0e884234dd0793f7b5adf264945ca55626f0e",
-          "sha1": "71d62f65a52aceb786fb4c5764d7d447d18e39f9",
-          "md5": "72a87265dc23702e99ba1f23050ed39c"
+          "sha512": "3ddee683f0b46bb747d52b9450e6cdbd8347336e7f41c3e337e53377afedfc187f290fd361834d6638d7ce5b1e87721c16265528c4dfb25f2d5beb031c73162b",
+          "sha256": "c1967ff400b669be1c6c2a46fbcaf4363702b49e7fdb9cbf3965c19c85205c7e",
+          "sha1": "8c2b72d53e5a08d9d0e360c98cf5cadc93c7c156",
+          "md5": "136748f2c3f8059085ae555cc20f30ad"
         }
       ]
     },
@@ -165,10 +165,10 @@
           "name": "costmap_2d-1.17.1.jar",
           "url": "costmap_2d-1.17.1.jar",
           "size": 952,
-          "sha512": "a948315d135c1ccfa95dff1c547a4a8db02aaa8fdefd22c3ad86b6c9820a1e9a86fdbf421800bc199b9748e9b6e341e8f99c3c2285e9b2b0b21cefaf46c41bf8",
-          "sha256": "5da475cadc4d66d95c6d3e5ed4e0e884234dd0793f7b5adf264945ca55626f0e",
-          "sha1": "71d62f65a52aceb786fb4c5764d7d447d18e39f9",
-          "md5": "72a87265dc23702e99ba1f23050ed39c"
+          "sha512": "3ddee683f0b46bb747d52b9450e6cdbd8347336e7f41c3e337e53377afedfc187f290fd361834d6638d7ce5b1e87721c16265528c4dfb25f2d5beb031c73162b",
+          "sha256": "c1967ff400b669be1c6c2a46fbcaf4363702b49e7fdb9cbf3965c19c85205c7e",
+          "sha1": "8c2b72d53e5a08d9d0e360c98cf5cadc93c7c156",
+          "md5": "136748f2c3f8059085ae555cc20f30ad"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "name": "costmap_2d-1.17.1-sources.jar",
           "url": "costmap_2d-1.17.1-sources.jar",
           "size": 803,
-          "sha512": "b39bc69cb4238d7df893da79b068234980a83ceb4b68228fbe9132ee1126ffa478547f63512a2a675af5b38af8c5bee0ea65695628374717b8cea35f04da2aa3",
-          "sha256": "58ac55373631b66e6462cac0e66e65a5c808d2dbabd5ea1fe20ba7fedbda5671",
-          "sha1": "77eb0c1dec25ff3c5767acad58d84dd4b78437d3",
-          "md5": "96d52a0ff3136933fe6523856b8755be"
+          "sha512": "98ad7b12372f3f4a9b00a4e987ba08559f11f42b1258b4d7958b5e0a9575b5dcdfee9ae1ead0da928e0c80ff7dcb71acf4f4c13c7f9bd78464f16638ae8e1b17",
+          "sha256": "63ddb324222bfc7bc32e6c12ff390bdad36449bf2d12150a57fb5478d919bff7",
+          "sha1": "361e8a0e6614904ed01bcadf7c8baa2760b63b02",
+          "md5": "7a2bf5af97046058641cb4faa6a9dc56"
         }
       ]
     },
@@ -204,11 +204,11 @@
         {
           "name": "costmap_2d-1.17.1-javadoc.jar",
           "url": "costmap_2d-1.17.1-javadoc.jar",
-          "size": 108234,
-          "sha512": "9b1dbf09504ac5bed071462656064e4cd94c46acc9d0ee0a4e43592b540c2d0007904eb06b6b532473b193e52fa4c9890075b771e8f6ab8b0f51fae1d4d3a1f5",
-          "sha256": "ee8c21287f1ec5752309687a0fdbeeb7edf0b18e95bdaea9dd49b4745b927cc4",
-          "sha1": "5de4caa12058fc42de789bb8be45a72045fea966",
-          "md5": "2432171ac14deeb1244eccdf1a8fcd8b"
+          "size": 84566,
+          "sha512": "0f7405c1d6d43a3bbdb9f00803cd504179cc3a386cbd3090a2cbeeb18fc9efc290320d1c583851220f3dd0a17ae7ddca336b740b055329b126a273366aac5d79",
+          "sha256": "73674b3b5247777d3ad56f19ad33d266ed6dd135a9e57b12914d6a44f08c3814",
+          "sha1": "e0d728d497a3f4f65cac01c9c6829f13f9b8503e",
+          "md5": "8ee82b47e642b86a95fa57b891722be0"
         }
       ]
     }

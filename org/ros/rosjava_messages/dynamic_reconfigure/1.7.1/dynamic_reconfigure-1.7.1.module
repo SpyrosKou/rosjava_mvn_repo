@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "dynamic_reconfigure-1.7.1.jar",
           "url": "dynamic_reconfigure-1.7.1.jar",
           "size": 6696,
-          "sha512": "7c1f4408d2c0606f65f97969eafc56e9ae89867180caa5b34691713a70ba85a8ab328027c3ec358076af4b23515b82cdd3460d2a7b5722ccb1db2e3f9fd672d3",
-          "sha256": "51c6ffcd83fc0df081e649c6decda78a4584c724e26360b38e1b6caacfdefa53",
-          "sha1": "8fb53c0adb94fa2f644f673f66ed966a0b8491a6",
-          "md5": "1da5831f8fd91f30f68958e759ab692a"
+          "sha512": "c1284d76bf9c12f7cc4a2b35e1e973859d6e3d2f49a5d64eb45607edfbcbae2093ee706619cad1efba056aef95ff374fb29c0def47a1f565ee83fb67ac05293b",
+          "sha256": "e78a3002b36cf74625b04b16d448c3c3cce55172f5e1f70b45d5617539af15d3",
+          "sha1": "7c3f65102cc72cbe2a3459b6baa57a55f032eb28",
+          "md5": "1af11d88fe0a7b60b0195ab307e2eb21"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "dynamic_reconfigure-1.7.1.jar",
           "url": "dynamic_reconfigure-1.7.1.jar",
           "size": 6696,
-          "sha512": "7c1f4408d2c0606f65f97969eafc56e9ae89867180caa5b34691713a70ba85a8ab328027c3ec358076af4b23515b82cdd3460d2a7b5722ccb1db2e3f9fd672d3",
-          "sha256": "51c6ffcd83fc0df081e649c6decda78a4584c724e26360b38e1b6caacfdefa53",
-          "sha1": "8fb53c0adb94fa2f644f673f66ed966a0b8491a6",
-          "md5": "1da5831f8fd91f30f68958e759ab692a"
+          "sha512": "c1284d76bf9c12f7cc4a2b35e1e973859d6e3d2f49a5d64eb45607edfbcbae2093ee706619cad1efba056aef95ff374fb29c0def47a1f565ee83fb67ac05293b",
+          "sha256": "e78a3002b36cf74625b04b16d448c3c3cce55172f5e1f70b45d5617539af15d3",
+          "sha1": "7c3f65102cc72cbe2a3459b6baa57a55f032eb28",
+          "md5": "1af11d88fe0a7b60b0195ab307e2eb21"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "dynamic_reconfigure-1.7.1-sources.jar",
           "url": "dynamic_reconfigure-1.7.1-sources.jar",
           "size": 5384,
-          "sha512": "fe8a34092b427ea2e6dc56b5d5b19affbdbf41842d6cb42ac0a1263195b4af545034ee868715969b3c828ed439d749a7ae85c67094a34b8164ec30b7a89b6a14",
-          "sha256": "db8d1920420fb75d67a9f621215d333313ff35dc273f8f9f18480f0e0f24cf85",
-          "sha1": "7e5044fb21411af97311e12159d49b23e259fd5c",
-          "md5": "92571f8e4c0cf6e3dbb87217b7c74ca3"
+          "sha512": "359a74c1ea6434ae22a34f1a2c0758b4aa5b431a0868fec43dac8d7a6f552b5a27aaf33f6ed83398c6ce67faac1ddb6db771d85ead9c8ded74557306ee30850c",
+          "sha256": "43fd5486e9c7ceea25e752f478256408e927a9fed36a8212cefbbc0cf6baed5e",
+          "sha1": "640cce2abe468ce025ffae999f89fe3392fbff53",
+          "md5": "6ab01c4dd0bf107dbfe641ab28e19a1e"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "dynamic_reconfigure-1.7.1-javadoc.jar",
           "url": "dynamic_reconfigure-1.7.1-javadoc.jar",
-          "size": 140876,
-          "sha512": "7216405dee94032e4793ff1efb8fe63ac3965136ea1a4f87de6ccb4a859723e0fe6fe8265d475025ecfc31db3abc4d1abcdf934d40c037dac91b34f752bfd011",
-          "sha256": "f9a7b1a927d7ec4717ade0265d2846f05580c1a185d9c34bf37016d96f36d8d9",
-          "sha1": "38864148de5f121a4bb6f25480a222eb27b6450c",
-          "md5": "da7eaa1ba13be5caa953f6d367343005"
+          "size": 117879,
+          "sha512": "40486898f8f31dd02738805c2301d239cf8be17f50890d62d174d4388e43bd455b03dc01d272693c438bc689179c2fdaf1c1fd6e3f06a7ba81aa3099bfa3dce3",
+          "sha256": "2cb0ec2d0d499da78371059eff08302d3796d9688fe09a5100ed4f5f90b9a7d8",
+          "sha1": "e9cfec70b9eea708e8f0e30769fd930d86cded19",
+          "md5": "fe26cae01e4c2f9b9221d47bc6e2ddbf"
         }
       ]
     }

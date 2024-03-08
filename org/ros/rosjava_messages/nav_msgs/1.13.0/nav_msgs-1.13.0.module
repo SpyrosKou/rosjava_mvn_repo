@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -33,16 +33,16 @@
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "std_msgs",
+          "module": "actionlib_msgs",
           "version": {
-            "requires": "0.5.13"
+            "requires": "1.13.0"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib_msgs",
+          "module": "std_msgs",
           "version": {
-            "requires": "1.13.0"
+            "requires": "0.5.13"
           }
         }
       ],
@@ -51,10 +51,10 @@
           "name": "nav_msgs-1.13.0.jar",
           "url": "nav_msgs-1.13.0.jar",
           "size": 10666,
-          "sha512": "c3c575cef356def35b1096f7ec602d40e4c4fcaeeb07978c15c9c4a4a37bb880b62036dcb7b40a63b64613b89159ae235ccc15c8ff5a85e833d409456dc072d8",
-          "sha256": "830bdea0d5d4b32cfc4d677d6fdfc4b0694710978e110cb3116ba606fc05ee58",
-          "sha1": "663bf5c5eddb58a3c73a5b7c5d1cf1f9cec10781",
-          "md5": "6a1db1e337b40523cfe325cda9027aa7"
+          "sha512": "a3dc53336925c835dd8e44d9710cf6e59feb01f864a5dae45c7bc6c70b04a9fd01952bc25be205a4513a7b727a7d050029816d384eb2aad266576741713d7848",
+          "sha256": "c72fade257080a6223c29adb0aa62c480016a6c8ac3a0f2d9e3083905954006f",
+          "sha1": "4827307205020eec11d3457aaf54caf5802ae882",
+          "md5": "13d198aa7105d4c8ef29044f4520a0f1"
         }
       ]
     },
@@ -77,16 +77,16 @@
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "std_msgs",
+          "module": "actionlib_msgs",
           "version": {
-            "requires": "0.5.13"
+            "requires": "1.13.0"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib_msgs",
+          "module": "std_msgs",
           "version": {
-            "requires": "1.13.0"
+            "requires": "0.5.13"
           }
         }
       ],
@@ -95,10 +95,10 @@
           "name": "nav_msgs-1.13.0.jar",
           "url": "nav_msgs-1.13.0.jar",
           "size": 10666,
-          "sha512": "c3c575cef356def35b1096f7ec602d40e4c4fcaeeb07978c15c9c4a4a37bb880b62036dcb7b40a63b64613b89159ae235ccc15c8ff5a85e833d409456dc072d8",
-          "sha256": "830bdea0d5d4b32cfc4d677d6fdfc4b0694710978e110cb3116ba606fc05ee58",
-          "sha1": "663bf5c5eddb58a3c73a5b7c5d1cf1f9cec10781",
-          "md5": "6a1db1e337b40523cfe325cda9027aa7"
+          "sha512": "a3dc53336925c835dd8e44d9710cf6e59feb01f864a5dae45c7bc6c70b04a9fd01952bc25be205a4513a7b727a7d050029816d384eb2aad266576741713d7848",
+          "sha256": "c72fade257080a6223c29adb0aa62c480016a6c8ac3a0f2d9e3083905954006f",
+          "sha1": "4827307205020eec11d3457aaf54caf5802ae882",
+          "md5": "13d198aa7105d4c8ef29044f4520a0f1"
         }
       ]
     },
@@ -115,10 +115,10 @@
           "name": "nav_msgs-1.13.0-sources.jar",
           "url": "nav_msgs-1.13.0-sources.jar",
           "size": 8689,
-          "sha512": "05d46bdd36c43ae3273d695a2e58803cf78da3869f448b2afdf07b407455a97e3069e69929336632bae9e264b7be3a5331660b80d5f573a1c06445f6ff9f13b8",
-          "sha256": "ab84f48767242b27b742e7fa53d395ad03bb8b411a5e2824a60fba5a15f92879",
-          "sha1": "ed7a6ef6901c65dd5283bb8fa4527b81fe22a44e",
-          "md5": "ff15640409cd87486afb3b8ff4989449"
+          "sha512": "8a567dac6ba5b2a9b8d85a24dda17925c66b6da8ef60630eea894518b518cd254d66dac84c6ba3b982307e358bffdb54627b022873073a3ce9172909305c39fe",
+          "sha256": "50b1bd2fbfcab6ca0c2f7631e64e255bc114c740ea7aa66163b95d108f999d1f",
+          "sha1": "856ef0c7ebf00c3b98ad7e8f7a51472d26323060",
+          "md5": "989f30b9dc276358607c24f1d5192c7e"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "nav_msgs-1.13.0-javadoc.jar",
           "url": "nav_msgs-1.13.0-javadoc.jar",
-          "size": 159099,
-          "sha512": "ed9144b4b23deeb1992120b4de8efff2d0837493f0e81579011a106d52ec3b82ce39bddcc67566729abd90fa4b7057c06e017ce155f9e177d229423ac5c46f85",
-          "sha256": "73473795e83919d81455cf432888a919e14b7f8657c49d9fa33fdef9c0e2ac7b",
-          "sha1": "94102feaee93428c1bb2ec557e9a3e41fb8acd78",
-          "md5": "d9e5cb70b8d7ad02c5b48281bac554bc"
+          "size": 136698,
+          "sha512": "2e459476772b0fb7a51a5d238388239d37506887e61c8fea9d73d2b961046298613dceace3003ccbb894dfd78de785f2f9af482845f1b319caa2a859a3505a9b",
+          "sha256": "ecad37cc4e007951d4cb4f39b7dd5566b190ea0e3b44bde163e57941ab501bc0",
+          "sha1": "1a3981afe067c38e0ef832610f18f3f2dbe4d729",
+          "md5": "2b946a31f38216fca8b1887339149fbd"
         }
       ]
     }

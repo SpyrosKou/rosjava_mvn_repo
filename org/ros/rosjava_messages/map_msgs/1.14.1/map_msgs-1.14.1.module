@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -51,10 +51,10 @@
           "name": "map_msgs-1.14.1.jar",
           "url": "map_msgs-1.14.1.jar",
           "size": 9794,
-          "sha512": "9a620a2f21fd873efdabeecd68ae602df0af72c1ee255cff288a4a604bbed8ed147322259c16eadcae5f6e49a721a29fafa65dd8f53f048160972159ce68dfca",
-          "sha256": "41feb653d584630808450aaa04b4f6aa41c1a6d3bfc307ce94f5db29ea86e6f7",
-          "sha1": "048474d60b954a79bb8cd8b2d2bd22bb229e4af8",
-          "md5": "b26165353e9da482d61073a9bf7d08f0"
+          "sha512": "67a836f7124025467ec5ff2a016917577823a70f286fdf5f663363affdc9d0d747796c726039e71212ec1f5e939cdc9d3297870e6255e2b787c1a08f29f902ca",
+          "sha256": "5156ba2293663016087aaaff1e2a74bb376155c0e5da27666beaf805da73e56d",
+          "sha1": "0e3d6621d04c36b7d1604c9a1ef323ba8ca46e5c",
+          "md5": "1fba78ed87f11fe3829b02e7e5b9784a"
         }
       ]
     },
@@ -95,10 +95,10 @@
           "name": "map_msgs-1.14.1.jar",
           "url": "map_msgs-1.14.1.jar",
           "size": 9794,
-          "sha512": "9a620a2f21fd873efdabeecd68ae602df0af72c1ee255cff288a4a604bbed8ed147322259c16eadcae5f6e49a721a29fafa65dd8f53f048160972159ce68dfca",
-          "sha256": "41feb653d584630808450aaa04b4f6aa41c1a6d3bfc307ce94f5db29ea86e6f7",
-          "sha1": "048474d60b954a79bb8cd8b2d2bd22bb229e4af8",
-          "md5": "b26165353e9da482d61073a9bf7d08f0"
+          "sha512": "67a836f7124025467ec5ff2a016917577823a70f286fdf5f663363affdc9d0d747796c726039e71212ec1f5e939cdc9d3297870e6255e2b787c1a08f29f902ca",
+          "sha256": "5156ba2293663016087aaaff1e2a74bb376155c0e5da27666beaf805da73e56d",
+          "sha1": "0e3d6621d04c36b7d1604c9a1ef323ba8ca46e5c",
+          "md5": "1fba78ed87f11fe3829b02e7e5b9784a"
         }
       ]
     },
@@ -115,10 +115,10 @@
           "name": "map_msgs-1.14.1-sources.jar",
           "url": "map_msgs-1.14.1-sources.jar",
           "size": 8025,
-          "sha512": "e18e17ec7c1db58499e15b3d324d4815014c139e3659c99719eb8abbdfca60d11a2a4b503e2497ade4309827eea91d608cb7507d010946d21d41f935f45d618e",
-          "sha256": "bb04634225e3eb2b14591a93075b84972dea3ab091e3c32bf8c1a68c7880b7a4",
-          "sha1": "07c65558bed7ab2e104a41d6ea52f278a2cd3796",
-          "md5": "03c9f32cc42b37f8c4cc52708180be88"
+          "sha512": "1423a9b3176e9e8e9cd985109ce93057f1b11f84f1e009b0c44226cff3b0f3d3f36fb447b53109771bc028a822c14ff39a1416a272d3c502f8e7c89891a3a301",
+          "sha256": "73df6c4bd401555f8f12ab89bcffd0d9f2b8ad1ee1698a16ae33445c3d3f9eb9",
+          "sha1": "4118f2137b20838d07d5668ed544d047ac9a5e60",
+          "md5": "bed680404f7563b3df5fb24804607182"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "map_msgs-1.14.1-javadoc.jar",
           "url": "map_msgs-1.14.1-javadoc.jar",
-          "size": 158733,
-          "sha512": "97ec71e5a9fff72507d1d5472b420040008381b28a720060a9e2569df7250e21805f3446e20fad55ce4bf290c86d23662026bdd5e83e8001658cc7dd044f6cd5",
-          "sha256": "f3fe149745020bf8faf3a3824e9d02372ecd0eed7072479e74cd6baea8329b64",
-          "sha1": "9fdf374a3a4ab1720a45cbeb0ffaebe94f003de2",
-          "md5": "88786c1622ff7256a94d9bf2f57eb6a2"
+          "size": 136545,
+          "sha512": "82737820751e25f503f1c7d805e674144c50a48a6f5bfb83b1e05d4765d55f8034d412c98692d8bfa232bbb1e9ba6af8ad03b63bf691cf608eeaa7459ef1c1f7",
+          "sha256": "51dafc16768ad4c53d5304388fc1d38f5aa15cf7e0687f47390b75ea8611d897",
+          "sha1": "315ee35ce82ee28142f81284cd9220893fd16f40",
+          "md5": "311d054ed5b840798a88f8c39281e4d9"
         }
       ]
     }

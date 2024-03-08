@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "rosauth-1.0.1.jar",
           "url": "rosauth-1.0.1.jar",
           "size": 1903,
-          "sha512": "7cb7da4bb28b3fd3862907d602dd73c9a2bf2e9f50354001386d593c7e52c281cbc4ce83fc7291805cb039c211421904f3fd9c69e47a339b3bd7aca99d290772",
-          "sha256": "fbe7137736feb1006a05abf52109bf1140cc8655d09ee38f66e701328c19e853",
-          "sha1": "f9959b25ade6c6993fdb342a6b64c1c8a44358f9",
-          "md5": "7d927208e2c467dca0e26a7e4feeefa0"
+          "sha512": "89e75851389c797876fd1be4351aaa88dccdd8ce3f7caa6d440c42c6171d91b03c1366b63ef1c8db265d1b80b66c08bde8c2bc8c7c3e162a993d2ab86d6acd24",
+          "sha256": "4c8f19ff0fd0b46b03d77ec4540a13adc1e7c700224e10ca5fbea97a3b391b8f",
+          "sha1": "ba29a936e5a0ce8f6186517aab3ed88629c52ba4",
+          "md5": "e8d6f8f3007d815789fe6637ec660e69"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "rosauth-1.0.1.jar",
           "url": "rosauth-1.0.1.jar",
           "size": 1903,
-          "sha512": "7cb7da4bb28b3fd3862907d602dd73c9a2bf2e9f50354001386d593c7e52c281cbc4ce83fc7291805cb039c211421904f3fd9c69e47a339b3bd7aca99d290772",
-          "sha256": "fbe7137736feb1006a05abf52109bf1140cc8655d09ee38f66e701328c19e853",
-          "sha1": "f9959b25ade6c6993fdb342a6b64c1c8a44358f9",
-          "md5": "7d927208e2c467dca0e26a7e4feeefa0"
+          "sha512": "89e75851389c797876fd1be4351aaa88dccdd8ce3f7caa6d440c42c6171d91b03c1366b63ef1c8db265d1b80b66c08bde8c2bc8c7c3e162a993d2ab86d6acd24",
+          "sha256": "4c8f19ff0fd0b46b03d77ec4540a13adc1e7c700224e10ca5fbea97a3b391b8f",
+          "sha1": "ba29a936e5a0ce8f6186517aab3ed88629c52ba4",
+          "md5": "e8d6f8f3007d815789fe6637ec660e69"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "rosauth-1.0.1-sources.jar",
           "url": "rosauth-1.0.1-sources.jar",
           "size": 1643,
-          "sha512": "b3ae8e6969f3a0a4545524e5761328a3d883e2d7cc6fc9725660b25ad062bc2e357ff8b3e46641129edb981540c0ce7f738a03511d4eac2975606aac8613f425",
-          "sha256": "63d41fe5ae0144fd59ffc9d2141480ddc1f1b3000a14e639ce9c6fb3083280cf",
-          "sha1": "6be488b3c54da6d3b7dc670fcc24703538935662",
-          "md5": "79836cf21ca1a585aaa7432ef5945e9a"
+          "sha512": "dcd30243648c9b5252449c7127528e36efe85d4c69ad81ce06303f36c54eb6a6d498f36ac9c01c534b23087362a7a8d16aa954f4faf80ce09c23528765360a54",
+          "sha256": "766c9842cb10e863e61602940c84ec8309bc62d9621a4a01725f04f7c627d507",
+          "sha1": "1d74deb9f74bbfe6d59f5807a9587ad85622d66d",
+          "md5": "ba2981f59e2b30b894827193eb481a26"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "rosauth-1.0.1-javadoc.jar",
           "url": "rosauth-1.0.1-javadoc.jar",
-          "size": 112841,
-          "sha512": "ea42e748b375e99d3f957e3d72938c1b7526087701b98e5c24fee11028ef730a80554447a0e3817ce4b1a29b4c5e03b8a998494d54f3b55f6e97886c2710c1f7",
-          "sha256": "c8ee9f291b9912e7b62aaed3119e0968fb32bfb4e16ade2a24bc6fc1269e4c30",
-          "sha1": "834e799b59b4f4e81a1f67a1d8b8e8fef5ccf3b5",
-          "md5": "29f0231c9ade6432c95600361ef38e66"
+          "size": 89315,
+          "sha512": "533809b17acfaa067bfc6f2bfea76fdd000440390b3af8bae02d81a36c030107636f061cbef2fb2e00c14f2db1584da01f5ddcf8cd3f2b7323a9e4a8592a2c6a",
+          "sha256": "2cc233b0de5ade4363499d9cd85a88a985f1de65b10818b6934da506a9389275",
+          "sha1": "b4f1b625adfe03d8da6b54abc920ffbc1f2ecc42",
+          "md5": "5a0c9422dd81ec16fb104d81e4e8032d"
         }
       ]
     }

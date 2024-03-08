@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -58,10 +58,10 @@
           "name": "control_toolbox-1.18.2.jar",
           "url": "control_toolbox-1.18.2.jar",
           "size": 1632,
-          "sha512": "a4b7dd47e7779acd6967c9a609d65791d028e9149fabd6972ca28361d38ea6abf308e99db45ffc82fa774a8e63fafeeee47de03571d5b5b8fca62e46d881e47d",
-          "sha256": "48c82bba4739be4713124259b2974213d99e8b58a51fba3add832ca9eb749072",
-          "sha1": "e331462ecef4622b7fe8156975eee2cbf95e8a9e",
-          "md5": "72048cfb39956d00d82b1bfb05390ae3"
+          "sha512": "488d62f5324a5485f85d24c2facd28fb0a09613ea9c29b2beb53d3c87aff17c795a5ff291ce6b1c8f8985f193b44a826d8f250d65fd23e82ae25007a11699144",
+          "sha256": "9fc42c40c0b9f1b0457fe29b732f1f1e226066890a6b158ee7bb6e30b691ea60",
+          "sha1": "2c65186443b61d18d9eefd407a1fb80ec3bd5662",
+          "md5": "e036e1c0f8e4de0c6b32f9f15dbafe8f"
         }
       ]
     },
@@ -109,10 +109,10 @@
           "name": "control_toolbox-1.18.2.jar",
           "url": "control_toolbox-1.18.2.jar",
           "size": 1632,
-          "sha512": "a4b7dd47e7779acd6967c9a609d65791d028e9149fabd6972ca28361d38ea6abf308e99db45ffc82fa774a8e63fafeeee47de03571d5b5b8fca62e46d881e47d",
-          "sha256": "48c82bba4739be4713124259b2974213d99e8b58a51fba3add832ca9eb749072",
-          "sha1": "e331462ecef4622b7fe8156975eee2cbf95e8a9e",
-          "md5": "72048cfb39956d00d82b1bfb05390ae3"
+          "sha512": "488d62f5324a5485f85d24c2facd28fb0a09613ea9c29b2beb53d3c87aff17c795a5ff291ce6b1c8f8985f193b44a826d8f250d65fd23e82ae25007a11699144",
+          "sha256": "9fc42c40c0b9f1b0457fe29b732f1f1e226066890a6b158ee7bb6e30b691ea60",
+          "sha1": "2c65186443b61d18d9eefd407a1fb80ec3bd5662",
+          "md5": "e036e1c0f8e4de0c6b32f9f15dbafe8f"
         }
       ]
     },
@@ -129,10 +129,10 @@
           "name": "control_toolbox-1.18.2-sources.jar",
           "url": "control_toolbox-1.18.2-sources.jar",
           "size": 1420,
-          "sha512": "47a60581bede67bfcad43b0af80339b69f518da1b0301d9e3d3454796d02e280575f4cef4e82b4d7b5a76b78a700f4781416041d3ad304f0a93cf6a329f9218d",
-          "sha256": "5378bfc5d79ee694b441399561b042050e751d11cb27bbf023dddfe648ff4da1",
-          "sha1": "467e79bff187a5c89409424a71516aec9ffe7287",
-          "md5": "352f911fcf71f8602e14ce17fffad47a"
+          "sha512": "cff9d69fbdb4f990db2d0eed13884c84b01ea2380ed97636db18327f476b02caadcaabe9d6c7668dd0b2e0acc7d6bc44e43be9e88e0cf17ff17b0562c0fc1845",
+          "sha256": "d41552ec00d34dd2885e55c702a71c8310e165bcdd3d7dd46f487cfd41b59d8d",
+          "sha1": "b543051dd34586f7e8d2b8a82ccd95ad243d3eb4",
+          "md5": "650a4700afacfdcf02eb5d3695ac3558"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "control_toolbox-1.18.2-javadoc.jar",
           "url": "control_toolbox-1.18.2-javadoc.jar",
-          "size": 112102,
-          "sha512": "152b9f2ab4a92fa8b85a83ec936262432f89c1413b5b24b32b092dc1197b056ae708188960c5bad435a09585648d20a7195b57c5ee4c0a8c86775c7b2140c2d9",
-          "sha256": "bbf6e028cd5f34105ae2aac0fd76ba868a41ef1c69c5709262736f5a49c8f048",
-          "sha1": "436a51dc1b3583a2f388ca8b98b1300bf7016ad5",
-          "md5": "42b385a2b5b4014abece8e3429f39540"
+          "size": 88613,
+          "sha512": "5bb49ce9f0227dfc1ffc86c334d56433724bf387d84a525a6691670eab9f9d36a4fb4577a7c3d5ea68d7baa4a645fc87ae36c18c46a83d585fc9ac76b2df1154",
+          "sha256": "8876c8a930e8d564e9ea56e17a4d66cb6cf47f940a46697556a741cfcf48baae",
+          "sha1": "4364ed71c3720efd587638bd5c4e62160a62f4e4",
+          "md5": "b135049b22f1d0acf221d71cc8cb4ca1"
         }
       ]
     }

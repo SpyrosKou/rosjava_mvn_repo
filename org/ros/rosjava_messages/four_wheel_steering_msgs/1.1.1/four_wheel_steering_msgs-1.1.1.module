@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "four_wheel_steering_msgs-1.1.1.jar",
           "url": "four_wheel_steering_msgs-1.1.1.jar",
           "size": 2222,
-          "sha512": "4075779bb525e9799156f8e9874658ab632d2c64d2db13e77c1e5beb88374aa05cd75051f37cdf7cf6557b230bdf874baefbc5b9601c24de234be216ea8b5679",
-          "sha256": "01720faedf936ead3a0fb818a297e4e2f931bfe22783318dab5a0e2bf361a70d",
-          "sha1": "b60ff745957f45c245aa1b9bbd88d537e4ae8ddf",
-          "md5": "d505b5166b8e5b5df97c8a3c74a1cc09"
+          "sha512": "5681616a40a037d20b351874c790fda1bb38aa50666486e4f267a2b79f52c864afbb7df04db17116f9e25d6c235eefd591d1d08d57c4a48a29cabc0d5cb7de51",
+          "sha256": "e24ba98df34f7900a4d334db4cd7197705bc44fd03346d91d5f3fdcb8db1037d",
+          "sha1": "7890713566a347e7ea2e52dcda1aa67dc83691a2",
+          "md5": "0e73bbd5579c2fc7511a8583b1f8d7e3"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "four_wheel_steering_msgs-1.1.1.jar",
           "url": "four_wheel_steering_msgs-1.1.1.jar",
           "size": 2222,
-          "sha512": "4075779bb525e9799156f8e9874658ab632d2c64d2db13e77c1e5beb88374aa05cd75051f37cdf7cf6557b230bdf874baefbc5b9601c24de234be216ea8b5679",
-          "sha256": "01720faedf936ead3a0fb818a297e4e2f931bfe22783318dab5a0e2bf361a70d",
-          "sha1": "b60ff745957f45c245aa1b9bbd88d537e4ae8ddf",
-          "md5": "d505b5166b8e5b5df97c8a3c74a1cc09"
+          "sha512": "5681616a40a037d20b351874c790fda1bb38aa50666486e4f267a2b79f52c864afbb7df04db17116f9e25d6c235eefd591d1d08d57c4a48a29cabc0d5cb7de51",
+          "sha256": "e24ba98df34f7900a4d334db4cd7197705bc44fd03346d91d5f3fdcb8db1037d",
+          "sha1": "7890713566a347e7ea2e52dcda1aa67dc83691a2",
+          "md5": "0e73bbd5579c2fc7511a8583b1f8d7e3"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "four_wheel_steering_msgs-1.1.1-sources.jar",
           "url": "four_wheel_steering_msgs-1.1.1-sources.jar",
           "size": 1992,
-          "sha512": "04b4ba749d1adea7ca43b0514c0842f1d766ace133fa525b52ac775bdc99431d8372d7add3689e476920c830b0ba4ddb834da2093bce937ef8c112e31d0252e0",
-          "sha256": "a1538f5bef49faafd0bca9289e4e19818412c3d7961a7f2970e477827c5b252f",
-          "sha1": "d9277fb8d18dd4d3e669eff2882b8114df8e5d7a",
-          "md5": "b60f79436170fd3e217ae8beff9f1cb0"
+          "sha512": "5dbf6e13710ea20df0d13f30705c514b2448bbc1f85a307a913ed627fb39657f515975bc76576969350dad2a3a6402129ffc748d4826fdec139a78bbd9d86220",
+          "sha256": "867409a7953051f455c1d5052356d043827f39e8b453e7aee2922f44fe116a61",
+          "sha1": "b34b2af616b3696858c3dc35369c048f32a21ccf",
+          "md5": "20857dfe0ceb344b556037ac78a76310"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "four_wheel_steering_msgs-1.1.1-javadoc.jar",
           "url": "four_wheel_steering_msgs-1.1.1-javadoc.jar",
-          "size": 111967,
-          "sha512": "113c0743c38c7f84291dd34af793aeca3a38331d3198c82fa6eef17f965726a805b1180618d72b156b0a5b4be4c8279387ad166ec7ee86ba996e93159728e005",
-          "sha256": "168f6b0d16cdabe880aef15b96ad7b780deaad47a048a93a9390a9f1a9a84c30",
-          "sha1": "36618fdb9e8d353fd32a8fb3a455d8ff172122bc",
-          "md5": "a2dd4ded1a3889639996ea07a9882951"
+          "size": 88355,
+          "sha512": "ff3e937afe52e66fa6c26ac4e635c5bdf8ec47f96e356584fb219c67fca4836274d7d5494d2648321a047faf6e1552b7061d3a86a9eadd996082246bf14167a1",
+          "sha256": "cb96f2c5053a172d41574863b0846f853722a1fac2ccd0f18909a0e38b6ad5a7",
+          "sha1": "f85dc4e705128386d6cc7de187b9a8a71c770963",
+          "md5": "da53d2c0b2d623965acf2b1a70fa4847"
         }
       ]
     }

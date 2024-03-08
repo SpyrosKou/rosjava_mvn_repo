@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "tf2_msgs-0.7.5.jar",
           "url": "tf2_msgs-0.7.5.jar",
           "size": 6829,
-          "sha512": "f5642757238134ce1a9a89a47efc6734cdbd4b21f5b01ff9acc1c9fe6e936039b08d1d0336c7bb852c6d0dcf8c2bf1bb57af67cdc00c3048c498fa40d0ca1a03",
-          "sha256": "0540481207eeb656f8a8101dc972e2d2a0b3c922f40d45175b6fe84bf25f041c",
-          "sha1": "0d03ec069115dac0660b9995ee58332e25c26cf2",
-          "md5": "9d6d89501444679895d8730934b0b311"
+          "sha512": "d75549eca649398a09747a3ee75d87cf8e6344dc7054d878093e79d7a79bab85a5c35829a2c210f20eda59843e07b1b0f511794ec79adc68ab5349187ce19300",
+          "sha256": "28fbd76ca192d541fd41ca42bfa7520470418175f3dedf7dde44f2bd705765fd",
+          "sha1": "5f099e9d109664ccc2cd1edab773c017ec158b45",
+          "md5": "0dbada3358a749563b32a46d49ef1984"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "tf2_msgs-0.7.5.jar",
           "url": "tf2_msgs-0.7.5.jar",
           "size": 6829,
-          "sha512": "f5642757238134ce1a9a89a47efc6734cdbd4b21f5b01ff9acc1c9fe6e936039b08d1d0336c7bb852c6d0dcf8c2bf1bb57af67cdc00c3048c498fa40d0ca1a03",
-          "sha256": "0540481207eeb656f8a8101dc972e2d2a0b3c922f40d45175b6fe84bf25f041c",
-          "sha1": "0d03ec069115dac0660b9995ee58332e25c26cf2",
-          "md5": "9d6d89501444679895d8730934b0b311"
+          "sha512": "d75549eca649398a09747a3ee75d87cf8e6344dc7054d878093e79d7a79bab85a5c35829a2c210f20eda59843e07b1b0f511794ec79adc68ab5349187ce19300",
+          "sha256": "28fbd76ca192d541fd41ca42bfa7520470418175f3dedf7dde44f2bd705765fd",
+          "sha1": "5f099e9d109664ccc2cd1edab773c017ec158b45",
+          "md5": "0dbada3358a749563b32a46d49ef1984"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "tf2_msgs-0.7.5-sources.jar",
           "url": "tf2_msgs-0.7.5-sources.jar",
           "size": 5592,
-          "sha512": "1b7df8855d62dd77b25f4757a5f55ede8a5381beeae705bab63346cbd164da228f00a74c944470d6dd269f10a5a09bb396b150f1d20bad4d444bcc05ce59609d",
-          "sha256": "8e04123723f1e6e2c267166dc556e5c30169fdd3ee6010e33c496c17589254ef",
-          "sha1": "3099226cab796f47c7b036d00a8d16c01238a8d3",
-          "md5": "11ff80791959192cc0f10dc0986eac84"
+          "sha512": "2a421241c680ee2cbea8263679c43ebef708cdf609dd79c7df1a2952472c2d0b97b756da2dd60d71687b1fb3dbe626b48472c5cafb950a750bfcd411638361bc",
+          "sha256": "8fc548dd950505fccba87d13f297bffc6bfd0463130f0d06fd44ed7903b3f3c6",
+          "sha1": "acaa3222beaa3e954cd2c65c12290d8715a3f664",
+          "md5": "c8049579ec229ca44daa2dabfe90ffb6"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "tf2_msgs-0.7.5-javadoc.jar",
           "url": "tf2_msgs-0.7.5-javadoc.jar",
-          "size": 139490,
-          "sha512": "b9044909b0e59080ad5d8da69c24dd54bfb05b4646426c8efa5f18fa7cd5509b80bfc3da98bb136fa38eccc82bee691bd339835c3e1805aa52ba89266835d546",
-          "sha256": "5da2500b636c4a2f3a033ba84cc87a3d82d5acbe4ae733a10824f06c0c2b57ab",
-          "sha1": "407769fe84f5617b890b80d3a5bdb3e938605849",
-          "md5": "61dcd46781206a5fd35c639c1b39940c"
+          "size": 116584,
+          "sha512": "2da392cdda333b93053bdeef18af322edada55ab0b12b7b587509e8a624a656fc40661f608e381fb4cb5e09e346f59b6a732276000000ba48883504b2e7af9d1",
+          "sha256": "a3825d30b8746b99fde439e30a5ffa84e14bf53c9105e7ecc373256993ef6ca4",
+          "sha1": "011558c70f4d93cac10ad44fd7545d2516318dcd",
+          "md5": "38769a41695a364ebb81246abcf925be"
         }
       ]
     }

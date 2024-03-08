@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -28,10 +28,10 @@
           "name": "rosserial_msgs-0.9.1.jar",
           "url": "rosserial_msgs-0.9.1.jar",
           "size": 3006,
-          "sha512": "a8e683463cc111439f0a76c398792acddeb45155ed8705370e1a11ba9184904025bd7557b1c21269fa4158d9952362effda9869cc7d90e9e4380f1ac61ee7bde",
-          "sha256": "8904b39d33b1721e657043ea1b1886ed4b3c04ae8e3e618167ca898867e8c659",
-          "sha1": "103e7d341302077f3120465972d597a64271834e",
-          "md5": "3c12dfd60e69c05d986831d470213e03"
+          "sha512": "ee38344dd6524ea3bfff02d089b258f3b09ef4b43decdb6ab3785b35f727e6bffdbd8cfaf1a4adf3137e6e81a677cddd65c0a8d6ca66ededc9c0d79c8cc604a0",
+          "sha256": "6535efccbd01c6300dc6ca93e08c705e927024b41b19afe289d49ce7071e3bb9",
+          "sha1": "4e5ea2d01c5ce540539aafdfc5a05fcba0198740",
+          "md5": "b97f266ea334546cdea363ac5ae437a5"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "rosserial_msgs-0.9.1.jar",
           "url": "rosserial_msgs-0.9.1.jar",
           "size": 3006,
-          "sha512": "a8e683463cc111439f0a76c398792acddeb45155ed8705370e1a11ba9184904025bd7557b1c21269fa4158d9952362effda9869cc7d90e9e4380f1ac61ee7bde",
-          "sha256": "8904b39d33b1721e657043ea1b1886ed4b3c04ae8e3e618167ca898867e8c659",
-          "sha1": "103e7d341302077f3120465972d597a64271834e",
-          "md5": "3c12dfd60e69c05d986831d470213e03"
+          "sha512": "ee38344dd6524ea3bfff02d089b258f3b09ef4b43decdb6ab3785b35f727e6bffdbd8cfaf1a4adf3137e6e81a677cddd65c0a8d6ca66ededc9c0d79c8cc604a0",
+          "sha256": "6535efccbd01c6300dc6ca93e08c705e927024b41b19afe289d49ce7071e3bb9",
+          "sha1": "4e5ea2d01c5ce540539aafdfc5a05fcba0198740",
+          "md5": "b97f266ea334546cdea363ac5ae437a5"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "rosserial_msgs-0.9.1-sources.jar",
           "url": "rosserial_msgs-0.9.1-sources.jar",
           "size": 2483,
-          "sha512": "b8030c0e9067ae8f5285865dfe453a0254146377b37a7b147dbf16c3d4b2cba0b4708c5813257b129cfa49c41ee6b27785769ccfde7abc8b8e5fd60752c707c8",
-          "sha256": "41ef6282b952ba7d738e3862b23045fa57747bf152a24f1ae863a849022c0116",
-          "sha1": "7795062e72c2419730c70e693779e47901497e25",
-          "md5": "08bb71082ce95639eb9a1b307b793f8a"
+          "sha512": "eebd5665781c53e23751c958d5b508844cd3e78ce3ec2fab48afe56b5b5f1e0362f916613c60e5afae3885379b03cc729421413d0846ce96b3aafc4404ea7df6",
+          "sha256": "76f1997838350942f624316038ff01a721e918b4443899300032da341a7935a7",
+          "sha1": "2288e31a3a69821f9b93e777086d02fd92bee1e9",
+          "md5": "5db07edef1044be6fc248aa78f6627fd"
         }
       ]
     },
@@ -88,11 +88,11 @@
         {
           "name": "rosserial_msgs-0.9.1-javadoc.jar",
           "url": "rosserial_msgs-0.9.1-javadoc.jar",
-          "size": 119756,
-          "sha512": "d1148f5520d345d7e142ff33441fefb2ada5d1e32df1b8951ea252269737f9eb4e10daccd867637cd919f204d8658d54e4d17ba9ef4300855e54f1888a8f1d3d",
-          "sha256": "b1acd57afe9b15997f7036ff4e546248d23e7bb6ba5b808c00963d096f2447b9",
-          "sha1": "0e445861d67994402d4c11fbe82e398b6f39d357",
-          "md5": "0c81fe6c181e66c86ff022ae744af6b3"
+          "size": 96325,
+          "sha512": "91c0b307f368c16bd5b0149105555b2411dc74d7d2aefdd6bb8d536bebc3bd13c1c12cc4f9d9fcab1ee3a1160ad460a63d1cc5b1f1aa631d823b1eb5aff84942",
+          "sha256": "0e2591779cd5fee8e8ff6e73e35ebd4305360250962f1767b6a318df3032f931",
+          "sha1": "5bc2781e3de1587c59338f97f43acb0dc1f8e548",
+          "md5": "cfbc6b7a5017ecdb107fb35a0c09efc3"
         }
       ]
     }

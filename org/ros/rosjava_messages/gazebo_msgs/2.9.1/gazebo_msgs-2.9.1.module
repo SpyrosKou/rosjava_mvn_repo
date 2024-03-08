@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -65,10 +65,10 @@
           "name": "gazebo_msgs-2.9.1.jar",
           "url": "gazebo_msgs-2.9.1.jar",
           "size": 46815,
-          "sha512": "868db44c87cbc7aa82a2e826e2b905b9ffe769d04f7735e05ffe764dbd22734822b207eaa2d19327f393fdf9e15bb5fa42a58ccf020de1cef9b6dc660680a3bd",
-          "sha256": "077260dfc104eba9a5d01c523688e4eb840cd69edbfbfeca0de65058cfa993d6",
-          "sha1": "412f32ae6aa68ef5a7d4c3cc7f0d1d777a452431",
-          "md5": "fc37eaf7f61106ddb22d99448d4fd8e7"
+          "sha512": "55c903fd89004914eaf2a8f7b5622063480774388c2f0c9bef65cb989ee03cae27ce514726d2038184dd3c39ffb5d57b6cb7d869a70e1fc2f4fd71f7cabe651a",
+          "sha256": "763dd21ef91c809bc9858721875fbb7afeaad38bfefb397a01797d39546e3b5a",
+          "sha1": "d22ec3218a5e31fe745895a437b31de6a871d124",
+          "md5": "e4937a7748108f15f634c3307ddda387"
         }
       ]
     },
@@ -123,10 +123,10 @@
           "name": "gazebo_msgs-2.9.1.jar",
           "url": "gazebo_msgs-2.9.1.jar",
           "size": 46815,
-          "sha512": "868db44c87cbc7aa82a2e826e2b905b9ffe769d04f7735e05ffe764dbd22734822b207eaa2d19327f393fdf9e15bb5fa42a58ccf020de1cef9b6dc660680a3bd",
-          "sha256": "077260dfc104eba9a5d01c523688e4eb840cd69edbfbfeca0de65058cfa993d6",
-          "sha1": "412f32ae6aa68ef5a7d4c3cc7f0d1d777a452431",
-          "md5": "fc37eaf7f61106ddb22d99448d4fd8e7"
+          "sha512": "55c903fd89004914eaf2a8f7b5622063480774388c2f0c9bef65cb989ee03cae27ce514726d2038184dd3c39ffb5d57b6cb7d869a70e1fc2f4fd71f7cabe651a",
+          "sha256": "763dd21ef91c809bc9858721875fbb7afeaad38bfefb397a01797d39546e3b5a",
+          "sha1": "d22ec3218a5e31fe745895a437b31de6a871d124",
+          "md5": "e4937a7748108f15f634c3307ddda387"
         }
       ]
     },
@@ -143,10 +143,10 @@
           "name": "gazebo_msgs-2.9.1-sources.jar",
           "url": "gazebo_msgs-2.9.1-sources.jar",
           "size": 39082,
-          "sha512": "e836eb2b1455949151cf176143e83851742d2011f98b2853bd25408bfd8ee7e192ae267b1d883a248f9c11c6f9d8c7bd5a63e01ddc8ef378c054cfe7cbe31485",
-          "sha256": "847ffa2a67eb1acda04d98a6a2442133110723ad12120d3d52b4d7d84b60309f",
-          "sha1": "d15e3d5fb42c715c3c64037d0605f7739a975107",
-          "md5": "566f0d510ad2741461771b259b483476"
+          "sha512": "24fa7762f1b0b34bd4548e1c09cd9f0da6146bde5f0a04af67fbedadcb0dda9aacc78bf7eb5305c1b8587f651c669d9c0a8772a7c677d8ec41786ade0e9196da",
+          "sha256": "d06d3064ea8585e78ee0bb2970012af8c7444afc71de3a35d237dc8c61468e54",
+          "sha1": "a025d11a2eca06b98937ca59988221877b9bb292",
+          "md5": "67f127ea91027816e608cef65eb2c384"
         }
       ]
     },
@@ -162,11 +162,11 @@
         {
           "name": "gazebo_msgs-2.9.1-javadoc.jar",
           "url": "gazebo_msgs-2.9.1-javadoc.jar",
-          "size": 311916,
-          "sha512": "2c097a332ddb8d4a1edb0464d02c4495f38038e0607702dd951fd87741441bf3e9a533e2186906f359fc35f44f94ab0da5e833e40cbf5b8f04e73798b6cd4236",
-          "sha256": "dca8971e7247508385df71e483a1f9c4f662d608813435ef958730043e5057d6",
-          "sha1": "e41c536f4e633661c4019866e17afbe8f90ca9eb",
-          "md5": "2a49fb98b79373ac913dc0367396d8e4"
+          "size": 293235,
+          "sha512": "24ae4fbd711285122c8e6ae8666376b8e0a2b628e1d0a6d4afb4e973f7bbbb292b3fca6ee05db1184e72fbb6b3c8ad5b2b9a69bd89f6e5d51fe7ea77a51ee843",
+          "sha256": "85758cb58a0da26420394744e16b29c40d73d7cbded701df19e800aa265a4da9",
+          "sha1": "a0a08d17d2a8c271b78804441ad01d9e94092ec2",
+          "md5": "c2b7e0a9195689dca647307f28ec3d55"
         }
       ]
     }

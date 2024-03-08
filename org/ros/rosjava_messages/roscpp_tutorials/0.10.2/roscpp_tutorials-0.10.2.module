@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "roscpp_tutorials-0.10.2.jar",
           "url": "roscpp_tutorials-0.10.2.jar",
           "size": 1555,
-          "sha512": "23bfff865c3752c4ee45eada137188f5c7aa3919539fdc41002a3713a99cd337a98204ce6730e52d518a622f1be7e0abfc9c8ac37b8fc8e4e128b2c2697c9bc8",
-          "sha256": "c6e17b99d03fe707dcc0c6899b69dfd02d9f4c0b5c0b0cb0b4cfb1680561e75a",
-          "sha1": "23dea4e29dd648135cd4c58772e6e2192ff09064",
-          "md5": "79e9872fe73349385bb06cc6c611706a"
+          "sha512": "9c45c59859b64e7d5b855a8002cd17b766a69894e3c715c24c6c17627fc2ac08a6343c890e2fd76d4ccad44ad909bf8608aa5460e70594278f82ccbe116b249f",
+          "sha256": "a512722bf08e4c72a73ec972b0ac70d8dea32093703973666304b369bf410f3f",
+          "sha1": "8fd1e8ed9c33e206f2ca256f93ffee64bec122d0",
+          "md5": "29bf3462a6caa2beaec18fd7804496d1"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "roscpp_tutorials-0.10.2.jar",
           "url": "roscpp_tutorials-0.10.2.jar",
           "size": 1555,
-          "sha512": "23bfff865c3752c4ee45eada137188f5c7aa3919539fdc41002a3713a99cd337a98204ce6730e52d518a622f1be7e0abfc9c8ac37b8fc8e4e128b2c2697c9bc8",
-          "sha256": "c6e17b99d03fe707dcc0c6899b69dfd02d9f4c0b5c0b0cb0b4cfb1680561e75a",
-          "sha1": "23dea4e29dd648135cd4c58772e6e2192ff09064",
-          "md5": "79e9872fe73349385bb06cc6c611706a"
+          "sha512": "9c45c59859b64e7d5b855a8002cd17b766a69894e3c715c24c6c17627fc2ac08a6343c890e2fd76d4ccad44ad909bf8608aa5460e70594278f82ccbe116b249f",
+          "sha256": "a512722bf08e4c72a73ec972b0ac70d8dea32093703973666304b369bf410f3f",
+          "sha1": "8fd1e8ed9c33e206f2ca256f93ffee64bec122d0",
+          "md5": "29bf3462a6caa2beaec18fd7804496d1"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "roscpp_tutorials-0.10.2-sources.jar",
           "url": "roscpp_tutorials-0.10.2-sources.jar",
           "size": 1357,
-          "sha512": "ee31c8c67d1328a2c888819a687a88a918a6e6ac92b297b3cf2bb9888269c4d7c8f4034fd452cd5095a3504cde39ed4d4309c5c570b13f52163f6f54d45d0abc",
-          "sha256": "dc08f6185b07a4bbfebdbe8768815c5f2d1fadb69ebcb37592ac6a61640b338e",
-          "sha1": "861115e52df9b83fd4783f9bc0407912a15f111e",
-          "md5": "dcdd920d03e12d69701710a89304de6c"
+          "sha512": "f097e6a6b7c8e5284575a2de69a7832b1c6850751376aa493f998ae62f561fde873a95d2671f44f4c459c5bbe3917e538b0d809b8b8da8bfbf7c7c36a2dc2202",
+          "sha256": "1db1d1fac717522495b00460604aa886f029cd31b9e80db5905afe9b6cc838f7",
+          "sha1": "11d565da2a0b401e6b81ccf3feb5b310d297ebff",
+          "md5": "fc71ccacce64cf0af293ddac10e30e85"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "roscpp_tutorials-0.10.2-javadoc.jar",
           "url": "roscpp_tutorials-0.10.2-javadoc.jar",
-          "size": 112259,
-          "sha512": "71584113bbb6942137b84a97339b46c9f6e699cf873894f374c68230a1acc17c4dff019aec888ad6e04d0b836fe7c39609a0271dcb276fccf5d969fe08ad4cc2",
-          "sha256": "13f14d62d9dcad206ccd7f4f004d7773dd773f4718103a41fe9bc801b22ec644",
-          "sha1": "dbbd0b8069e42e5813188e5e3187a649e822dcc5",
-          "md5": "fbafa498d46506587a07093e0bee2b40"
+          "size": 88745,
+          "sha512": "d5300d26e45342caeb19ed5e6137912ba8aa17ebbd9da0bc21057e767f05089eb92d8aa9ede4e0d1d69b9e5f41927282ad786864c4c4003395ba27f0be750262",
+          "sha256": "44a83c24dad596295dd3d020b373411f341b3c0b7eec0d366cc345f19262ad4f",
+          "sha1": "5e6d1a2efc35781990760b39e36a93cb1498ac5d",
+          "md5": "c6c7a95c2839a9dc8bba56c00741d9c1"
         }
       ]
     }

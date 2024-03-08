@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "move_base_msgs-1.14.1.jar",
           "url": "move_base_msgs-1.14.1.jar",
           "size": 4973,
-          "sha512": "55be14e4388d3ff2a9ee6fcec5f63d980f8d2880c5348b40ef8b0a9e84ce4165796e79d8794b370a01c6261f7677073ec949a6ec9e278927fb2cd41a22393c78",
-          "sha256": "8793e880ea53fc2219dec466cd35fae832cc07ec2b4d3d21408405de3c9e335c",
-          "sha1": "021b58b59357dad241b7181c043cd54eb757450f",
-          "md5": "de2fc15cce624012818af7a0aeac6280"
+          "sha512": "7d277a901487f412fdb260d3f3efdfcfdbe4b7cf5afffd1140fcdf4ce7efd8d7b26d615c3fcc00cf9e1d90ea7e00efc3d7f8e9eb904944dd415afd790ebb7716",
+          "sha256": "79b5a5731f9eb907ed347641b18be5b8b98cb750183615745f34dfded53ea6c4",
+          "sha1": "5b8f133ec551bf4712e8357afbc20d6094493497",
+          "md5": "27c605e8216b77358b4ff0201d2baef4"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "move_base_msgs-1.14.1.jar",
           "url": "move_base_msgs-1.14.1.jar",
           "size": 4973,
-          "sha512": "55be14e4388d3ff2a9ee6fcec5f63d980f8d2880c5348b40ef8b0a9e84ce4165796e79d8794b370a01c6261f7677073ec949a6ec9e278927fb2cd41a22393c78",
-          "sha256": "8793e880ea53fc2219dec466cd35fae832cc07ec2b4d3d21408405de3c9e335c",
-          "sha1": "021b58b59357dad241b7181c043cd54eb757450f",
-          "md5": "de2fc15cce624012818af7a0aeac6280"
+          "sha512": "7d277a901487f412fdb260d3f3efdfcfdbe4b7cf5afffd1140fcdf4ce7efd8d7b26d615c3fcc00cf9e1d90ea7e00efc3d7f8e9eb904944dd415afd790ebb7716",
+          "sha256": "79b5a5731f9eb907ed347641b18be5b8b98cb750183615745f34dfded53ea6c4",
+          "sha1": "5b8f133ec551bf4712e8357afbc20d6094493497",
+          "md5": "27c605e8216b77358b4ff0201d2baef4"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "move_base_msgs-1.14.1-sources.jar",
           "url": "move_base_msgs-1.14.1-sources.jar",
           "size": 4141,
-          "sha512": "8d33d45c4be196ac509857fb571223297878c351e928c6d512d0219922bebba1cf0205eef5ce7e5cc5ad1f5f3eeaa580e334ae1e43a61c8dc5aa8938be0cef2a",
-          "sha256": "db7b0854b657165b4370121400783054183dd79b8d21d97a5c31e0b9f22f0ec8",
-          "sha1": "d77b7599dc300c8869d8ef0a7b2a3fef1299f49b",
-          "md5": "1aaea59c02116c899b92cd2ca15c39c1"
+          "sha512": "94d1d978cbaf0cf12734341ac682891530179a77571207fe47f3ba3751f99ec66104259b831485a5fae85b2f24af58155c660c1b18ba4849c7aaf612f2e139bf",
+          "sha256": "fcbe8389b49bed2a779e34b196351b651babcd61bf12c27549f053ec7d417b69",
+          "sha1": "d3cfb76917e520121e5534845201af3a25339729",
+          "md5": "28cc7d494eb590672476287c20c43a21"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "move_base_msgs-1.14.1-javadoc.jar",
           "url": "move_base_msgs-1.14.1-javadoc.jar",
-          "size": 128558,
-          "sha512": "be70be3ba034b1b44a61e53533189b93cd3e5a458bfaf24f5457eb8bc58a88586f0e1f60175647d6254984108bbbd1a5fca0e61ef8e65dfaceea345a617b7ff5",
-          "sha256": "f349ee79bf28d2b7dc1af34be326569c604721bc54ef4c7a1d15beea9806670d",
-          "sha1": "38edd5ed8a9fda2a3f2e637a4c1c0a9e5caaa113",
-          "md5": "2152305cd56607824034770bf4158c94"
+          "size": 105420,
+          "sha512": "d42db6aa592ad2db0aa40cfe05d26a38c287ddb6d9039c0b35437ebc9fd6885bee68e4271c46f60f31c7ff121a443329868607391d9a0d01cd71bbe98f1db4db",
+          "sha256": "51f06d7dedb04c23eb592f931843f85af99e5de09ac576226c7fbd7ddec2df8a",
+          "sha1": "92b11b17683392ddd4b293931f76f1db4bc6a736",
+          "md5": "df2d4dbc4b0a43bf426866e5d862b80e"
         }
       ]
     }

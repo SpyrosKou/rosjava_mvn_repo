@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -58,10 +58,10 @@
           "name": "turtlesim-0.10.2.jar",
           "url": "turtlesim-0.10.2.jar",
           "size": 6997,
-          "sha512": "1e2c781bf6d99b8539530c5a05f618448cbb4e7cced75dd205cce7ecbd5b910ac85adcd4ae02baf2d319dc018d23c7d4507b88586a4eef71865b91c4f1617856",
-          "sha256": "5a3942d8ea16645290ff53dc628af48b5ac88470ae382a5bf20aafeb33fd4d4c",
-          "sha1": "1701e77e1bda6e78fb80d4583d6d698f5352141c",
-          "md5": "62eef5dce5ab35269ddf31ff1798a416"
+          "sha512": "84c9222a8090e3cf73e31def65e7202005c1c6dd530fc936a4b7ad2b388e5789b83f144f88da9209ade19da70f3a6204e598ddac5d77937af12bc708c49e2d49",
+          "sha256": "a9d3fd4540660985f4d39b4e96e66a7af61162b9f005d2b33ff08334118bc874",
+          "sha1": "fe06bafe26ed68dac704e49b768c353223b209d4",
+          "md5": "465bcfe6b5bb95103402800cd37aae8f"
         }
       ]
     },
@@ -109,10 +109,10 @@
           "name": "turtlesim-0.10.2.jar",
           "url": "turtlesim-0.10.2.jar",
           "size": 6997,
-          "sha512": "1e2c781bf6d99b8539530c5a05f618448cbb4e7cced75dd205cce7ecbd5b910ac85adcd4ae02baf2d319dc018d23c7d4507b88586a4eef71865b91c4f1617856",
-          "sha256": "5a3942d8ea16645290ff53dc628af48b5ac88470ae382a5bf20aafeb33fd4d4c",
-          "sha1": "1701e77e1bda6e78fb80d4583d6d698f5352141c",
-          "md5": "62eef5dce5ab35269ddf31ff1798a416"
+          "sha512": "84c9222a8090e3cf73e31def65e7202005c1c6dd530fc936a4b7ad2b388e5789b83f144f88da9209ade19da70f3a6204e598ddac5d77937af12bc708c49e2d49",
+          "sha256": "a9d3fd4540660985f4d39b4e96e66a7af61162b9f005d2b33ff08334118bc874",
+          "sha1": "fe06bafe26ed68dac704e49b768c353223b209d4",
+          "md5": "465bcfe6b5bb95103402800cd37aae8f"
         }
       ]
     },
@@ -129,10 +129,10 @@
           "name": "turtlesim-0.10.2-sources.jar",
           "url": "turtlesim-0.10.2-sources.jar",
           "size": 5788,
-          "sha512": "b3249dadf86be5e0958a82ca76b0f379793c1ef30e30441e092725bf6e740914929e4445ebc843a76121451e7c3203017534c921561b437be507d16beeeab764",
-          "sha256": "7bde25759f362d75bde36a39988929d3c13bf906230209e912951bc7e709ec1a",
-          "sha1": "6422a76b8684c99a8a5a3a2a28580f44b67bc9d3",
-          "md5": "9b1ec350f08af1dbe1a04e2de789497b"
+          "sha512": "f8bbea38dd8e72a0328b862ce125396e09fc4b9ed6a66686dc613916c04463528a3f727f2ec1e5bd2631f38284a59d8b271c385b529eabffcab8fb7d06567ac6",
+          "sha256": "43e4f19765169716d873c76e86ee6a9398e9bbc8f8b0910628464b1b29e90545",
+          "sha1": "c26e5a2348286fb216a47c95375bc0852c1459a1",
+          "md5": "bbfcc598786c6023a0c1e446abedba21"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "turtlesim-0.10.2-javadoc.jar",
           "url": "turtlesim-0.10.2-javadoc.jar",
-          "size": 144656,
-          "sha512": "655b77d6179206f6004231789ceae4f005b5f904411a1e3145a41a4f6706b1d521929a1558685b18313409b4c3d1c8b178221ab0e469116f8b73421d1a907c52",
-          "sha256": "9af35ab70af637de476f5d7e60cdce990919595ecc94bcaa248f231d34b341fc",
-          "sha1": "3e633a73d8c83d09d5d1154a601d206cbddefb34",
-          "md5": "f3f34bd4cd255886f27a5866de288eea"
+          "size": 122185,
+          "sha512": "275ce67872d7e13d1aeda91cf88a3a66dc27f0daef7b2543b027a6c008d8f3218779e3dd280232a80f0b88ee8500b0a0d155a5c29a6284377a51d5cc02a4e38a",
+          "sha256": "9c208d806f2fd486812d0efcb7ed7ec465fac1173882f1bf1c220d910ad34b25",
+          "sha1": "321b38c799584a85ba61736ec0e91d0af85edcba",
+          "md5": "16566e5598a288a80555df30634b56ad"
         }
       ]
     }

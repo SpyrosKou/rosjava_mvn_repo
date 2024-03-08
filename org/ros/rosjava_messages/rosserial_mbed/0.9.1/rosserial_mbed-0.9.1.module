@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "rosserial_mbed-0.9.1.jar",
           "url": "rosserial_mbed-0.9.1.jar",
           "size": 1935,
-          "sha512": "c98fc231cd00cdd35d4879a601d6b7edc7f672a857249b3310dc69a55c66a156b5a67c43215e5c55915102bb0661fdee1ff814118eaba0af70d71aa513a223d1",
-          "sha256": "04cc8ed5f1a320803159d0b538583d595f2207efd66ca91b7c573026aec70136",
-          "sha1": "9e504ff248fb112cdaa527326226eecdaffc83f0",
-          "md5": "e41f638e3ac23f393af6bd4840b410da"
+          "sha512": "ac5a17874daeb387a675cd9a044bb806dcf64d88b4be3e019dfbfc77c8dc33255f812578472d80270de297d11c80b8ec3c6c440cb7d7b479899abd41e56e596c",
+          "sha256": "4a710db188a79d2e58915a1ded3b29bbdbcc73da05258965f84f891bcf593c76",
+          "sha1": "f75a44900d94fe948facccb33c35ec9f9cc3710e",
+          "md5": "183736c31052dcc0db07b4f1377d3f8a"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "rosserial_mbed-0.9.1.jar",
           "url": "rosserial_mbed-0.9.1.jar",
           "size": 1935,
-          "sha512": "c98fc231cd00cdd35d4879a601d6b7edc7f672a857249b3310dc69a55c66a156b5a67c43215e5c55915102bb0661fdee1ff814118eaba0af70d71aa513a223d1",
-          "sha256": "04cc8ed5f1a320803159d0b538583d595f2207efd66ca91b7c573026aec70136",
-          "sha1": "9e504ff248fb112cdaa527326226eecdaffc83f0",
-          "md5": "e41f638e3ac23f393af6bd4840b410da"
+          "sha512": "ac5a17874daeb387a675cd9a044bb806dcf64d88b4be3e019dfbfc77c8dc33255f812578472d80270de297d11c80b8ec3c6c440cb7d7b479899abd41e56e596c",
+          "sha256": "4a710db188a79d2e58915a1ded3b29bbdbcc73da05258965f84f891bcf593c76",
+          "sha1": "f75a44900d94fe948facccb33c35ec9f9cc3710e",
+          "md5": "183736c31052dcc0db07b4f1377d3f8a"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "rosserial_mbed-0.9.1-sources.jar",
           "url": "rosserial_mbed-0.9.1-sources.jar",
           "size": 1644,
-          "sha512": "ef04962963656dee089286918cc372cb073e5dcc7d8aed66b476f7e60962590be38e991297b5519a6da12a2b7e7c96d4988398ea5a6d56fdb471a3a576cd276a",
-          "sha256": "699317158c61158de408935ea4416c124a209b8ef0714585469ebbc2ed2abe41",
-          "sha1": "379b75d5f446b7581e946a84acf15f41f310eaed",
-          "md5": "2c41a8a842491b428671188d88c857cc"
+          "sha512": "c3fd9d8368b4909c24b0c76eed9cd39ef935f53c10015b8cd8f8142ac18009ca7b740e585e067698f8f9ca6fbf8b16d956a5e6d0c96049247fa92cf4d77d82ca",
+          "sha256": "da19818c69bbffe171ddc67bfab51e33f7bd87ab049999e76f6075fe20485ab8",
+          "sha1": "cf8f99502dd2244270afef55ff51beb8427c2b9f",
+          "md5": "2763966b37c30411251a6956cbb5c6ee"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "rosserial_mbed-0.9.1-javadoc.jar",
           "url": "rosserial_mbed-0.9.1-javadoc.jar",
-          "size": 115005,
-          "sha512": "f4971d040471c8da51d8055f5cc6a298fe440c5f82b086bb0252356ddabbc34edb60baacc0ae257e53641a33f093309f3924cfc13db8a5cdde0b37c7a3e3b555",
-          "sha256": "a2e77cbe9ee5fd0de9a05e131161abc8b49add72182361ed3d1cc012afb3acc7",
-          "sha1": "95cbb9625bbef6cb4d3ed853820f0a0cb1d309b5",
-          "md5": "02813a73b42386d06f1487097d4077ec"
+          "size": 91516,
+          "sha512": "a45db2eb5d79cbacf44b03d0e21bbbf27a9219809a20b9231bbf40813b57f4039726c6c0b61e78b8af8db7f08b2c005658396f58106e4c4c2f11a4453f2ee961",
+          "sha256": "3f9afaec541e6ea51eab3cdc77bbb2bde65252d739be102bcc79338f2d176a25",
+          "sha1": "e37719ad77a55817da82c647028a48041c1bb82e",
+          "md5": "148bac7658cb5ad44a508a279f1a3c0e"
         }
       ]
     }

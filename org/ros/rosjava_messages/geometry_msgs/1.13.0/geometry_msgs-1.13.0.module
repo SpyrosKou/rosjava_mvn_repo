@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "geometry_msgs-1.13.0.jar",
           "url": "geometry_msgs-1.13.0.jar",
           "size": 15698,
-          "sha512": "778891c28af956c11ee98859f03715079fecdef802c51c6a896eed3122b5b21f5376f04b86e39da65004f76bc02e926e2105f375b02ecaa01031d5f7352eeef3",
-          "sha256": "84eb52c1f137b3744c4908d8db52d5e5901b27c8edac0dea4843847dea3c0feb",
-          "sha1": "fa6f5249f51b0053ca5f3b7b2762ad4a7c86742a",
-          "md5": "6ca96d26c6a9269334a8a89a639effb4"
+          "sha512": "91c6c4690651e41840c86c5a49b8d4ed195ce02043451488e0e05587783c55fbb8133068d4ea62fa40c4781f222ce9ce2b6b08a01155b8eebad87484dc1da876",
+          "sha256": "5384ff8c21ef045544d630b25cf41942888e61d5e4a6a2a693d2e83c214034fd",
+          "sha1": "97137c2c67917d9ce3e91729e3c2b33bbe9189ea",
+          "md5": "efd3017a5fc0879915b390f54d3aeb7a"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "geometry_msgs-1.13.0.jar",
           "url": "geometry_msgs-1.13.0.jar",
           "size": 15698,
-          "sha512": "778891c28af956c11ee98859f03715079fecdef802c51c6a896eed3122b5b21f5376f04b86e39da65004f76bc02e926e2105f375b02ecaa01031d5f7352eeef3",
-          "sha256": "84eb52c1f137b3744c4908d8db52d5e5901b27c8edac0dea4843847dea3c0feb",
-          "sha1": "fa6f5249f51b0053ca5f3b7b2762ad4a7c86742a",
-          "md5": "6ca96d26c6a9269334a8a89a639effb4"
+          "sha512": "91c6c4690651e41840c86c5a49b8d4ed195ce02043451488e0e05587783c55fbb8133068d4ea62fa40c4781f222ce9ce2b6b08a01155b8eebad87484dc1da876",
+          "sha256": "5384ff8c21ef045544d630b25cf41942888e61d5e4a6a2a693d2e83c214034fd",
+          "sha1": "97137c2c67917d9ce3e91729e3c2b33bbe9189ea",
+          "md5": "efd3017a5fc0879915b390f54d3aeb7a"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "geometry_msgs-1.13.0-sources.jar",
           "url": "geometry_msgs-1.13.0-sources.jar",
           "size": 12943,
-          "sha512": "9d8f2b1eb1cf2233bdae0883e20ab1468fc70e4cdc540f6078317b08c949b16f89e0bc4b0e3514363cdee1ab3a93f3661ef03b1f25207104d97533af7c08d4b8",
-          "sha256": "d87e71ee9beec22ca596017c2a1a3b9f5c4337593fd259878a0bdcfd49fac531",
-          "sha1": "925b76189a69fd0eb7f50869c3d7457831025d73",
-          "md5": "8b4db2247a3bd8f7e48fca96b5b17f99"
+          "sha512": "af74f078b8b8786f074840e8a8593be8c4243b5289e24e1954c3931666235f88ee4b07432b8e6c0f114e57880640219cd04cd609cd229bce44d715a4e69fae9d",
+          "sha256": "75eb83913ba8bdb3ffb13ec137b49d267c30f1f3895b1c9a51a86afe89e941ac",
+          "sha1": "dfc6f24a0395fddce7a1e7a043f07d91e6fa5aa8",
+          "md5": "a2b7953ed06efcf33bcd35cd8cabeebe"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "geometry_msgs-1.13.0-javadoc.jar",
           "url": "geometry_msgs-1.13.0-javadoc.jar",
-          "size": 184997,
-          "sha512": "76581af251715937a25944da7ea9469ee90df626b0558cf67ecc42ad19e15bebf1165c37c3b18c2be4573714efa3c978b3d07554a566e91516b359da3aacd057",
-          "sha256": "7d5d55384d7d4aca70d7d88c12027542047fff5ef803067ef692402d854df46a",
-          "sha1": "18a30d0812bf5b23f10a9674e23bc1f29c38c305",
-          "md5": "3cdba14f8f8e0261a239d8247997acd6"
+          "size": 162552,
+          "sha512": "339426e24fb4b549d9de8623db77a7a11360fd0ce2d3abc866cd8a294a30d68d474637a8bd00412ecfe821eae1946590b9b6762cb600dfd8884741c1174173bc",
+          "sha256": "faa7d143827ca084761da3ee76c1fb73bc67614efffe826e6eebf785d31cb3e5",
+          "sha1": "591e24cb81ded81c4e3a0b88005f70df1bbdd6c3",
+          "md5": "7055ef7365b598460d37b97426eeaa9f"
         }
       ]
     }

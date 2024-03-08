@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -86,10 +86,10 @@
           "name": "rviz-1.14.4.jar",
           "url": "rviz-1.14.4.jar",
           "size": 1529,
-          "sha512": "4026334c62300632a86e7f3d6d1eb4db4d3ed639401ca44464739a01f8893889319d9e2303a80df6a38eb8de43b214c0d3836b184830bae7456972a25ce624b0",
-          "sha256": "277909d7476cc9e34b665dc5b5c12355a23df1e68948ba083c25fee332be9457",
-          "sha1": "9df4a8442af93cfad576b239914c69acc7110f35",
-          "md5": "fb23b3bb7bcc264e9d5eaca75359ba63"
+          "sha512": "fe7ef7336a74a548585519389eab7466ae975c8c6ea6693156dfe8299cd968d54abb411f0d88e77560fd4738e3d9615b9679c6bc7b79768a8f2a44d0c676b973",
+          "sha256": "c6175faed50e274b7da2689ed518a674a4c44c536a84c6cc58ad9f71b7c16c84",
+          "sha1": "866c2e1d6b0b95a36bca2acea45bc877deafd751",
+          "md5": "05e1dae231430a59d4512d9e7eb15248"
         }
       ]
     },
@@ -165,10 +165,10 @@
           "name": "rviz-1.14.4.jar",
           "url": "rviz-1.14.4.jar",
           "size": 1529,
-          "sha512": "4026334c62300632a86e7f3d6d1eb4db4d3ed639401ca44464739a01f8893889319d9e2303a80df6a38eb8de43b214c0d3836b184830bae7456972a25ce624b0",
-          "sha256": "277909d7476cc9e34b665dc5b5c12355a23df1e68948ba083c25fee332be9457",
-          "sha1": "9df4a8442af93cfad576b239914c69acc7110f35",
-          "md5": "fb23b3bb7bcc264e9d5eaca75359ba63"
+          "sha512": "fe7ef7336a74a548585519389eab7466ae975c8c6ea6693156dfe8299cd968d54abb411f0d88e77560fd4738e3d9615b9679c6bc7b79768a8f2a44d0c676b973",
+          "sha256": "c6175faed50e274b7da2689ed518a674a4c44c536a84c6cc58ad9f71b7c16c84",
+          "sha1": "866c2e1d6b0b95a36bca2acea45bc877deafd751",
+          "md5": "05e1dae231430a59d4512d9e7eb15248"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "name": "rviz-1.14.4-sources.jar",
           "url": "rviz-1.14.4-sources.jar",
           "size": 1326,
-          "sha512": "2271735b9f394fa9c1f42ecf033d034701eccf1576b4a34c37c8e4c3f6aed7355eb4aeb7686f7dc8088bcee087100e8d5a837804ae6aa8d33e59ff37a445e658",
-          "sha256": "cd70ab97f72054a1fd2ca535f7cd0a4702e09217e38a996bbc9022c7200db7e3",
-          "sha1": "0d08677c85741020371fd38577913f8c1d9a8186",
-          "md5": "da435439042c2478786867d304b0fd6e"
+          "sha512": "f5af87bd543334e1acb0c456368878ed2c3eecc405ed5b4c02b1a2116c06af8ec2f61bee06090add3057477fc16469d0d826e1852ed51ce5470480ee378b9d67",
+          "sha256": "8f2efaea910631eb2b75d5b1fc0351099e902107de4e8b146da67759b299e9f9",
+          "sha1": "f9038693fd746f4c468e625717046c32f1def98b",
+          "md5": "b226ead13912b3d086587740ee6b4763"
         }
       ]
     },
@@ -204,11 +204,11 @@
         {
           "name": "rviz-1.14.4-javadoc.jar",
           "url": "rviz-1.14.4-javadoc.jar",
-          "size": 112000,
-          "sha512": "391912e83cc2b406d9ae7b32787e9cb691f61b3328b8f989f2027086996180ec1094860581e78f60a60233cdd398200344d8090df6afe523b6bd69a4a2cef2ec",
-          "sha256": "3d662c0c5e92a8142efb110affb922e449fbe7ef4b6943996f7e36c2bde993e6",
-          "sha1": "8766c2be8953672863b1b8775caf677affd96225",
-          "md5": "d1a7e3017ccb91ac861d4646c929dee4"
+          "size": 88475,
+          "sha512": "5bbe5d2e82c899a84a051e698beba47ef3a5aa3a7294729e3b751bf3477f6253d51acc17581f931eddc7e21b1c4e04f931f7df4e3091c84838918b98e0839a0b",
+          "sha256": "2460fd71e52f2dc897a4de70010cfdac71c2c468ba9f78d19eb5fa2e21fb59d0",
+          "sha1": "dd22e1ab4bff7ad0eea3aad2798d323c7f418802",
+          "md5": "da2886a0790a47ab6378c848bdf3bd98"
         }
       ]
     }

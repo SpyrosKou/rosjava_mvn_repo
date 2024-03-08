@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "rosbridge_msgs-0.11.12.jar",
           "url": "rosbridge_msgs-0.11.12.jar",
           "size": 1277,
-          "sha512": "440e0db553a920f7ca2db8cfba7b534804833f8d0a1b03348e7d0b0229ba38bb74ad4b44cdcd4d59e68216c6d919b980b4763a3d494c9aa668047494810e5717",
-          "sha256": "0ef32ef814471529af5983a03f213532dcd7c3de443c26e95db9715e6df47335",
-          "sha1": "f1d71f071ea6575932ce3dad915716b6fbbf07da",
-          "md5": "0ca53d34dfb3e5493d55ecbc6fe835ca"
+          "sha512": "3e6dc1b59e587b9d28f1887accbd4510ee4040e42efa9113e9e9fd8fcccd1cfeaa7333bf673bfb61ba64233375b710ee8efe3876dbd3f15ef11e34934d632a5e",
+          "sha256": "7de4b760f13f4db512270102eb9bbe7c66634badc2ee6e4d1c87352f19bad56e",
+          "sha1": "c8d26471fb22f25b7cee899afa3e0c3736698428",
+          "md5": "5deb5bb6ef6ac818fa61dda357bf4746"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "rosbridge_msgs-0.11.12.jar",
           "url": "rosbridge_msgs-0.11.12.jar",
           "size": 1277,
-          "sha512": "440e0db553a920f7ca2db8cfba7b534804833f8d0a1b03348e7d0b0229ba38bb74ad4b44cdcd4d59e68216c6d919b980b4763a3d494c9aa668047494810e5717",
-          "sha256": "0ef32ef814471529af5983a03f213532dcd7c3de443c26e95db9715e6df47335",
-          "sha1": "f1d71f071ea6575932ce3dad915716b6fbbf07da",
-          "md5": "0ca53d34dfb3e5493d55ecbc6fe835ca"
+          "sha512": "3e6dc1b59e587b9d28f1887accbd4510ee4040e42efa9113e9e9fd8fcccd1cfeaa7333bf673bfb61ba64233375b710ee8efe3876dbd3f15ef11e34934d632a5e",
+          "sha256": "7de4b760f13f4db512270102eb9bbe7c66634badc2ee6e4d1c87352f19bad56e",
+          "sha1": "c8d26471fb22f25b7cee899afa3e0c3736698428",
+          "md5": "5deb5bb6ef6ac818fa61dda357bf4746"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "rosbridge_msgs-0.11.12-sources.jar",
           "url": "rosbridge_msgs-0.11.12-sources.jar",
           "size": 1092,
-          "sha512": "3614249d0b58a873aa2d742c81ceaffc919e549492c1bf723af22aa1130eea926f5d145f27ce8cb08b76d01e99cbc1059d9982cd5e2149abfb53bc390ceaf799",
-          "sha256": "6023849c79ec2cfcff57a39938910a23ad381c08a18d0614977a6020e7a64a8c",
-          "sha1": "f8266f629e490cea55702a35e26ed0645bf3c4a8",
-          "md5": "0ce3276789706dd27daae4cbdfb79ba7"
+          "sha512": "5ec3527ee60056d9bb68eb54366a7fbade621e69e80be86158c997af97e1e941360141dfa5f1a0150ec1f1e95be2a2c4679f34bc93625f5ec2cb2aa3185b85f2",
+          "sha256": "62319658d581ecfb29c3ace6d9a41942b8b02b8272e32850ba2e7af1fdee26e1",
+          "sha1": "61ae06f7123cba746e826a72da33cc2a01793a05",
+          "md5": "1e69c3f2bf70af64aeba7fd1b26efeab"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "rosbridge_msgs-0.11.12-javadoc.jar",
           "url": "rosbridge_msgs-0.11.12-javadoc.jar",
-          "size": 110428,
-          "sha512": "bc6665893f109ce1af0ba23918b671dcf55c1190661f361cd27d1ed461055b9ac98a1e312b1404398d6ceffe40006c4a668d058c7c4ff8c8e1409df950171f8d",
-          "sha256": "562c130d07489e5d06bcfc1250f66924b1df4bb4bdd168e40e2e7f5fde19af85",
-          "sha1": "32c2cc1e6bb9a00eab883c910beed90a6730d1cf",
-          "md5": "b25edce16cd785faa79d91b8bef2ab59"
+          "size": 86802,
+          "sha512": "a10eceb644f21642be3bb84a0c4eebf492a31a7ed7989652eec2cf93b33453350714fa81d12bfa769e5cd3b9fcead43a9f3d176b50c8f3386dc579e7cf4ab97b",
+          "sha256": "c5bdd1dae36018cc22a78e0100273822d746b1045aec5f2573f299c8b330f6dd",
+          "sha1": "bb900feb7f2eb1cc29c477f8bf4e6eed3dc6153e",
+          "md5": "0326d900afe5b228cdfb45b2be9d1c02"
         }
       ]
     }

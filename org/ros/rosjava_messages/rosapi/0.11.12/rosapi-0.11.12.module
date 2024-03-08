@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -28,10 +28,10 @@
           "name": "rosapi-0.11.12.jar",
           "url": "rosapi-0.11.12.jar",
           "size": 29607,
-          "sha512": "1c72a08b95c3f376d3e064237a3fffdc14d8f0bb937478f2dc000ffed31193f1ee937e69cc599dd79c73ff243aa60f2ead81f41945dd3152cf845a3bf8dd44bc",
-          "sha256": "61ad0744d9dde28759fbaabfa5bf43542b13ed61f8eb10ea100d54c82f8c908b",
-          "sha1": "c039ab80df762b02ec0d446ae47e9b54ff288f87",
-          "md5": "3bd13215f5014fab56311fd3c7567e4a"
+          "sha512": "67744f109681ccb6ba4fd6a0edbbf0cf69924ff45c0b75d51a3848f957e0a87ede6ac03209cb2474fd46b3d80aefd7f101ae1758a0a78839e899a828473b475f",
+          "sha256": "1775a01e456dac393b94f6e7a41daf3ad839397baf762cd84dc736aa177121ce",
+          "sha1": "cf956e0c6949fc6a9e4da335c27234103168c9a8",
+          "md5": "52695ba19a9984efd2e69bbffc467237"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "rosapi-0.11.12.jar",
           "url": "rosapi-0.11.12.jar",
           "size": 29607,
-          "sha512": "1c72a08b95c3f376d3e064237a3fffdc14d8f0bb937478f2dc000ffed31193f1ee937e69cc599dd79c73ff243aa60f2ead81f41945dd3152cf845a3bf8dd44bc",
-          "sha256": "61ad0744d9dde28759fbaabfa5bf43542b13ed61f8eb10ea100d54c82f8c908b",
-          "sha1": "c039ab80df762b02ec0d446ae47e9b54ff288f87",
-          "md5": "3bd13215f5014fab56311fd3c7567e4a"
+          "sha512": "67744f109681ccb6ba4fd6a0edbbf0cf69924ff45c0b75d51a3848f957e0a87ede6ac03209cb2474fd46b3d80aefd7f101ae1758a0a78839e899a828473b475f",
+          "sha256": "1775a01e456dac393b94f6e7a41daf3ad839397baf762cd84dc736aa177121ce",
+          "sha1": "cf956e0c6949fc6a9e4da335c27234103168c9a8",
+          "md5": "52695ba19a9984efd2e69bbffc467237"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "rosapi-0.11.12-sources.jar",
           "url": "rosapi-0.11.12-sources.jar",
           "size": 23796,
-          "sha512": "fa469522822f8da6de881fcf18917eb78fac7f29afab6a733270ba58816ce87e5b8a5e636bc9697dae3acd515435947821871ce6d144b28c2c8b38a219bbdc99",
-          "sha256": "d734f56d849efbfb5f106021b6e13de41f81d1bc4a29161e8b9de8cbdecd693f",
-          "sha1": "6375cf2cbfb3ffc3d904d8bae56b5b393f16b118",
-          "md5": "cc29a8609526deddeeb7c4f35c729d55"
+          "sha512": "a4c0fb8e360f0c531526527bab5314fb2dc116a0fbcddf38d8b0140f38d6364a8af8296e67321b6dee628af36478bb550f8cdd6db6c6b4befe560ab5a0d9307e",
+          "sha256": "068eb264e492db0ff1dc89f416a42974bbb2f66cdb3a6eab58649b07267c20fb",
+          "sha1": "d8db47c2477caf7e0facc480f12201d534fcaf11",
+          "md5": "5bc54a07b8ca4a520a0e8e5351d64e06"
         }
       ]
     },
@@ -88,11 +88,11 @@
         {
           "name": "rosapi-0.11.12-javadoc.jar",
           "url": "rosapi-0.11.12-javadoc.jar",
-          "size": 280221,
-          "sha512": "e6ae0a22fd8cc3d76a853775bc1c5e432a494df62f7e42dae43c072898f1f8c577457a9a29aa48bd3c0608a02357191487bc7df12ad173b0fbfd5d7a7f016129",
-          "sha256": "0e6143b0e67d5e5b1d899c9ab787eb8dce098cbd0228c36474688776c569191a",
-          "sha1": "279ad93217829f477d2f2f2ec371b9eaa0258398",
-          "md5": "00ace551c583087801b9e4662108b17b"
+          "size": 261797,
+          "sha512": "1708eae88ae8158863aeef2ff1c9a2bfa54284d6ca7ecd33276ce73830ec40002f819d29aff09063d1ef81247027e9ce962b9913737fe3714620f27e26539a6a",
+          "sha256": "3c3bb10be2e9eaa786b206b06bef39e45dac17a8d1d7dc700ce5ec43b20e8a40",
+          "sha1": "0b660c589495623386aabdf09d7dc47a2b9590f3",
+          "md5": "1b2b1b7e077a5e8d21ebc93928f2f973"
         }
       ]
     }

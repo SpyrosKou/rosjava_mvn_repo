@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -72,10 +72,10 @@
           "name": "navfn-1.17.1.jar",
           "url": "navfn-1.17.1.jar",
           "size": 3043,
-          "sha512": "e7dba82a7a6883b825c7e413e8f27862aa6f66938457483598d1de2f3b0b4f5966a46eb82197c22fd4615c408c5b641f66e5e6aeb04c9a7826baf759f4a71791",
-          "sha256": "ddbece87a200aead12701c7c3745daf26132eaed437e3ae87e36fd004e45aa49",
-          "sha1": "ff654d7cf1ea813b60c6f9f9bdfd77c6b2aabe5b",
-          "md5": "1d8df94cd63275e3503060ed8f609f75"
+          "sha512": "11a0a671dd95dc471848647747a6bc45f1508b5d959793972df8f749f1411c38be24b338a548fdebb0d6ce4d24f004d3f1dc92e35c50d56e07509fae5be34733",
+          "sha256": "713a0304560a29f4421018743560c26d04fb6771b8b3e6488dffde072b1d407b",
+          "sha1": "04844713395ea669ab3ad5e2e1dffc67c6c91f3f",
+          "md5": "78afb3d3e8dca677b26e9504c727792a"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "name": "navfn-1.17.1.jar",
           "url": "navfn-1.17.1.jar",
           "size": 3043,
-          "sha512": "e7dba82a7a6883b825c7e413e8f27862aa6f66938457483598d1de2f3b0b4f5966a46eb82197c22fd4615c408c5b641f66e5e6aeb04c9a7826baf759f4a71791",
-          "sha256": "ddbece87a200aead12701c7c3745daf26132eaed437e3ae87e36fd004e45aa49",
-          "sha1": "ff654d7cf1ea813b60c6f9f9bdfd77c6b2aabe5b",
-          "md5": "1d8df94cd63275e3503060ed8f609f75"
+          "sha512": "11a0a671dd95dc471848647747a6bc45f1508b5d959793972df8f749f1411c38be24b338a548fdebb0d6ce4d24f004d3f1dc92e35c50d56e07509fae5be34733",
+          "sha256": "713a0304560a29f4421018743560c26d04fb6771b8b3e6488dffde072b1d407b",
+          "sha1": "04844713395ea669ab3ad5e2e1dffc67c6c91f3f",
+          "md5": "78afb3d3e8dca677b26e9504c727792a"
         }
       ]
     },
@@ -157,10 +157,10 @@
           "name": "navfn-1.17.1-sources.jar",
           "url": "navfn-1.17.1-sources.jar",
           "size": 2534,
-          "sha512": "bb048c9f08759a1ddb96dfd8d0ea2fd237a2d10b3cb9b575970f926e82fcfa7fbccc87514ab7b1150b1d6a984d37d8b81c5962384bfd2c19f545ca42d7796b01",
-          "sha256": "dc537268708d4565fe7c8caef3ca7ac3f1dc24a6b3de8e690366b406324134c3",
-          "sha1": "de50454f4dc0c533ee196967214624ca58154aa1",
-          "md5": "d050301e31ca9d0930088960708997e5"
+          "sha512": "7bd26a2c5585c7ca33c5b3e02027c0ee4dc701fdb18774845fde3b8010af64836ba5afd2c011c78643cb4e0cf0f1a55cbbc62ec53bd850a2b5b2787574a19066",
+          "sha256": "33588b50eb4be8682dad73dbef4756ff6ce47b725ab9975c1df70c41a29c4506",
+          "sha1": "3c131148e3ac2d5fd2b0e28a8ea4bdc28bfe5fed",
+          "md5": "f868661c5898375301938af40e54ff15"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "navfn-1.17.1-javadoc.jar",
           "url": "navfn-1.17.1-javadoc.jar",
-          "size": 119536,
-          "sha512": "ea819e5309947e012e82bd426b523c1211b93517d839a2cadb3e27dd8693e61c6f51e12768f19d6d1c2ab6f3ff5b9a25d0f5ed6a407559ee54a3d3fda0a1a0c2",
-          "sha256": "14d6e271f938ac2c0118daa69024286765241305d09219400054e2399aa21371",
-          "sha1": "98756e592eeb29762bdb8c9d1686637b875a9d61",
-          "md5": "300df3fed69189cad9a141a5a8f694aa"
+          "size": 96257,
+          "sha512": "68d0d62f84fff99b8102679dfe5f3d8a2c061c9eb29b77942f981129b0f413f1effbc99db979bab8dcee5345776ed602bde54635b145e5cd0ab63440ed783943",
+          "sha256": "1453850782a21b5567bc52835ecf866d4e25dd33de1dc9a07bcaf4a60f66fd9f",
+          "sha1": "b7428e2d3e42d94fa92f92864b93e8db9d9c587e",
+          "md5": "c5ba73c4c0a4a0d0c8a9fce0c784ed44"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -26,16 +26,16 @@
       "dependencies": [
         {
           "group": "org.ros.rosjava_messages",
-          "module": "geometry_msgs",
+          "module": "actionlib",
           "version": {
-            "requires": "1.13.0"
+            "requires": "1.13.2"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib",
+          "module": "geometry_msgs",
           "version": {
-            "requires": "1.13.2"
+            "requires": "1.13.0"
           }
         },
         {
@@ -47,16 +47,16 @@
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "std_msgs",
+          "module": "actionlib_msgs",
           "version": {
-            "requires": "0.5.13"
+            "requires": "1.13.0"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib_msgs",
+          "module": "std_msgs",
           "version": {
-            "requires": "1.13.0"
+            "requires": "0.5.13"
           }
         },
         {
@@ -72,10 +72,10 @@
           "name": "turtle_actionlib-0.2.0.jar",
           "url": "turtle_actionlib-0.2.0.jar",
           "size": 5049,
-          "sha512": "3f8b3e5534463ada3e28c1dfecb29bfe3dd75167e1cc2c43dbfbb08aa4eeee54bde20702921dc2734fe98fa691e5738f6119aa0a9b8b945795cb976db64fd718",
-          "sha256": "7068cb32dd066f242dea0324ccabbbe79aa47d64dca8ac5befddaedba067735a",
-          "sha1": "4814e002acf4bb5859f4eb4b8080dc38af9126d3",
-          "md5": "f2137e47c99e9bb2a8ba2e17caf8c0c1"
+          "sha512": "33039ce9bcbe59356528a4ce8c636218f71d23b6232f6d6ac17195540836a28e7151e0d36d38531d9caea914c77705646eea9bfdfd57770ccdb67c94cecaaff4",
+          "sha256": "4b35e69ddc3bf02e462f084463c077831842acaa674180d483c429dd37037768",
+          "sha1": "366d9cc15dd9efe123fbba57b956c013a579e795",
+          "md5": "cd2ee6b33667fe619c2b93763f4fac21"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "dependencies": [
         {
           "group": "org.ros.rosjava_messages",
-          "module": "geometry_msgs",
+          "module": "actionlib",
           "version": {
-            "requires": "1.13.0"
+            "requires": "1.13.2"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib",
+          "module": "geometry_msgs",
           "version": {
-            "requires": "1.13.2"
+            "requires": "1.13.0"
           }
         },
         {
@@ -112,16 +112,16 @@
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "std_msgs",
+          "module": "actionlib_msgs",
           "version": {
-            "requires": "0.5.13"
+            "requires": "1.13.0"
           }
         },
         {
           "group": "org.ros.rosjava_messages",
-          "module": "actionlib_msgs",
+          "module": "std_msgs",
           "version": {
-            "requires": "1.13.0"
+            "requires": "0.5.13"
           }
         },
         {
@@ -137,10 +137,10 @@
           "name": "turtle_actionlib-0.2.0.jar",
           "url": "turtle_actionlib-0.2.0.jar",
           "size": 5049,
-          "sha512": "3f8b3e5534463ada3e28c1dfecb29bfe3dd75167e1cc2c43dbfbb08aa4eeee54bde20702921dc2734fe98fa691e5738f6119aa0a9b8b945795cb976db64fd718",
-          "sha256": "7068cb32dd066f242dea0324ccabbbe79aa47d64dca8ac5befddaedba067735a",
-          "sha1": "4814e002acf4bb5859f4eb4b8080dc38af9126d3",
-          "md5": "f2137e47c99e9bb2a8ba2e17caf8c0c1"
+          "sha512": "33039ce9bcbe59356528a4ce8c636218f71d23b6232f6d6ac17195540836a28e7151e0d36d38531d9caea914c77705646eea9bfdfd57770ccdb67c94cecaaff4",
+          "sha256": "4b35e69ddc3bf02e462f084463c077831842acaa674180d483c429dd37037768",
+          "sha1": "366d9cc15dd9efe123fbba57b956c013a579e795",
+          "md5": "cd2ee6b33667fe619c2b93763f4fac21"
         }
       ]
     },
@@ -157,10 +157,10 @@
           "name": "turtle_actionlib-0.2.0-sources.jar",
           "url": "turtle_actionlib-0.2.0-sources.jar",
           "size": 4245,
-          "sha512": "d03c0ddbc30fd0b307b131d5d881d09d39ad47b911899b7106dd1eb01de31750af993cb268ce2d777b4eaaa8eb2cc8d6e4c0dd9b69ba2b4d263ab4fcc2d69783",
-          "sha256": "3e060469c56402260e0c967a982a399fbbc02d7fbe8f21574effdec9f888f197",
-          "sha1": "c1036ee7f03fd959ddf9fbfe9448dd97600671b5",
-          "md5": "68abdd60f3d9e5b36d4acb29aedd4f62"
+          "sha512": "ada3613867c055788335e4d3b27ee2f50511a4040b2e455daab0519c652180fcd4cd8da34142869e21eb1ffe851d93f905f06b7b19502e88e22327a7b8c9423c",
+          "sha256": "11a0f76e5e09489258e339421244206e04c60d2145755531a43810398989664f",
+          "sha1": "741fde4eb386ddf9649ab20286fcbc37081f5842",
+          "md5": "25b419d3f51d41d40afcdd98dc6438c9"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "turtle_actionlib-0.2.0-javadoc.jar",
           "url": "turtle_actionlib-0.2.0-javadoc.jar",
-          "size": 128887,
-          "sha512": "8b1367a4c54c854ac69000fb09ddfb7003968864885a20dc17ce4b159c170fffceeed28e037be53125f0251ce53b5ff9c129ac5dfa272d95d9ddfb6defda0e0c",
-          "sha256": "eb1f2b59382c8bb8dc15dcdc1bb5dbbe018ffe2ad6d596492048b2f2ff0eb49e",
-          "sha1": "ff72605495074babef7df16477f96ef88ab09386",
-          "md5": "d14b510e93ffa9777e2228800d915335"
+          "size": 105678,
+          "sha512": "fd10cf3d3f94ee1d227da20cf3879a39a848d53754f095a341e5cecd626cd5e7a963e03d4a9553c6804a9b76b9e08c2107f5526fe5ba0b4d22a6dd5ec56e0a00",
+          "sha256": "b00f3831244f84cc1cf308dee1f38bfb5079038a36c66d09a3056b46bd04af14",
+          "sha1": "c4e70978458974112d67e7b21b73e6aadb65590e",
+          "md5": "c9647ef0576e0fd29c81d7797452c241"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "nodelet-1.10.0.jar",
           "url": "nodelet-1.10.0.jar",
           "size": 3969,
-          "sha512": "03b73bbfb3d2fcce8bd8ba54383ad6b45720796f41a8ffbcf7259133f6c5ac42f33f2220b446d889314ef615bff2fd8ad06b424d8a0bc5339f9f9ca01aed1f50",
-          "sha256": "13e97e8a2f7d7d073d93a6a401be2b1adc58d72a22161f9656430031f355fb2c",
-          "sha1": "c07ceee517131ed09cf8d0423b64f0587974794f",
-          "md5": "20cd5f9d3f527af806377c7045d82b55"
+          "sha512": "ac70c9fc882c672af5f51eb276bf597f21e73d5f3a9095609f474ae560800130b2394112b3640dc7550886cd88ad802d460332a41440c5bf7c6a22a3acdc1341",
+          "sha256": "cf3e52b929333954e4e495fbeae16424a63c4ff9c393cf2d12698cc3c74cb815",
+          "sha1": "9d9a82ece33f07c6002c1a98682283acf31d4dce",
+          "md5": "b7669b3ff11603a13010127d32914a74"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "nodelet-1.10.0.jar",
           "url": "nodelet-1.10.0.jar",
           "size": 3969,
-          "sha512": "03b73bbfb3d2fcce8bd8ba54383ad6b45720796f41a8ffbcf7259133f6c5ac42f33f2220b446d889314ef615bff2fd8ad06b424d8a0bc5339f9f9ca01aed1f50",
-          "sha256": "13e97e8a2f7d7d073d93a6a401be2b1adc58d72a22161f9656430031f355fb2c",
-          "sha1": "c07ceee517131ed09cf8d0423b64f0587974794f",
-          "md5": "20cd5f9d3f527af806377c7045d82b55"
+          "sha512": "ac70c9fc882c672af5f51eb276bf597f21e73d5f3a9095609f474ae560800130b2394112b3640dc7550886cd88ad802d460332a41440c5bf7c6a22a3acdc1341",
+          "sha256": "cf3e52b929333954e4e495fbeae16424a63c4ff9c393cf2d12698cc3c74cb815",
+          "sha1": "9d9a82ece33f07c6002c1a98682283acf31d4dce",
+          "md5": "b7669b3ff11603a13010127d32914a74"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "nodelet-1.10.0-sources.jar",
           "url": "nodelet-1.10.0-sources.jar",
           "size": 3292,
-          "sha512": "b0b85d9eb08f62b7cf28cd921ec22148793b9c41c8d61e3fe947f0f6e74ad93eebeff91c99703935a1893c3863e26128e275d52c1b0af57d4c9125af99a7f862",
-          "sha256": "5811d9c5aaa7d37eee301756726444b67e2f326ffeb3ce64470ba177163d28d4",
-          "sha1": "dd8282d6b5b0404f693be4d9f71454f8a19bb154",
-          "md5": "8e21ceeead8804d6df07a7d8b3b53f9e"
+          "sha512": "1e5833ee84f6402cb05e05c510b8161447d3af7f62342afe9c1a02265267a1ceb6ccd0723b31fbef454e59c4f59fd9085902793076b2bbe1ca22ad7d90687379",
+          "sha256": "5040436964721eae92df0d6b5b412d941380844cd98ea46d58223e7b4fdeae25",
+          "sha1": "601ac7b890b2908f6b62952258d4d677ab5ab00b",
+          "md5": "329b478285ab337704ff422125c97007"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "nodelet-1.10.0-javadoc.jar",
           "url": "nodelet-1.10.0-javadoc.jar",
-          "size": 126299,
-          "sha512": "189e471686c787108942d5afa1668eb8f4ec9e7496924ca46cf6164dd169957be9cfe2f1eb287628418a19c13f8f0f4284cee3d5dd73c6b1c9a83f6091199692",
-          "sha256": "337db35b4eaf15c21a35610f7fe7e95b9efd2437a8bfe6ccf0ac173e0e183198",
-          "sha1": "9edc133a5f900fb662c6a0b542e05f39f5e79aa8",
-          "md5": "56c252f2e0893578496c49ebba119b61"
+          "size": 103204,
+          "sha512": "1a2b3a57a5b3effd7508d4e47bd89ba0ad3a70028a7079da6782685e6122e49fab6f9b8ffac03e01199b9b9bbeba89a860422436e86a6ef0a22d0a03a87e8d68",
+          "sha256": "1afce2e2c6284a88830a0a8445be9698a82fee595701ebba7c20d8339193b17b",
+          "sha1": "478bb599429cde97e8bcbd1aec536b84ba2668b6",
+          "md5": "35fdacc63a999c4efa861bbc2d06a546"
         }
       ]
     }

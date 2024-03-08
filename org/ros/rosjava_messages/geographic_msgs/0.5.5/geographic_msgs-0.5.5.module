@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -51,10 +51,10 @@
           "name": "geographic_msgs-0.5.5.jar",
           "url": "geographic_msgs-0.5.5.jar",
           "size": 16150,
-          "sha512": "929adfb3034ebb1bbca8146eb556a90c0ba540ec7cede143635c844b67fdf1994360a2a3606e2aaeaaa5ae8eb2e8e010bab2db722031c7027de6e58ffcf7b88c",
-          "sha256": "878b19384396020647f6798310ae3d1236db6eead6bd107a2815b28c480b5607",
-          "sha1": "6367b8654e6e857aca7a6de915bff72207737292",
-          "md5": "2bb465bbd6ec2c2dde40acf9660d102f"
+          "sha512": "60c22093de4c88a41891c1e0e9b709f4076ae8b92943e020248e36a07fbcfd54e13c6bbf7790bef960592de35363ad0790f26bfe8c2faef5873263b2b2aee95b",
+          "sha256": "4f17b04bee8508a554b7dae535f5c05af4377db569902993ed1855c5754cfba6",
+          "sha1": "bfc4c9ef083adc26dfa941f74b8726254a93854d",
+          "md5": "1039bfcbb348c77b08b2444fa10f74e2"
         }
       ]
     },
@@ -95,10 +95,10 @@
           "name": "geographic_msgs-0.5.5.jar",
           "url": "geographic_msgs-0.5.5.jar",
           "size": 16150,
-          "sha512": "929adfb3034ebb1bbca8146eb556a90c0ba540ec7cede143635c844b67fdf1994360a2a3606e2aaeaaa5ae8eb2e8e010bab2db722031c7027de6e58ffcf7b88c",
-          "sha256": "878b19384396020647f6798310ae3d1236db6eead6bd107a2815b28c480b5607",
-          "sha1": "6367b8654e6e857aca7a6de915bff72207737292",
-          "md5": "2bb465bbd6ec2c2dde40acf9660d102f"
+          "sha512": "60c22093de4c88a41891c1e0e9b709f4076ae8b92943e020248e36a07fbcfd54e13c6bbf7790bef960592de35363ad0790f26bfe8c2faef5873263b2b2aee95b",
+          "sha256": "4f17b04bee8508a554b7dae535f5c05af4377db569902993ed1855c5754cfba6",
+          "sha1": "bfc4c9ef083adc26dfa941f74b8726254a93854d",
+          "md5": "1039bfcbb348c77b08b2444fa10f74e2"
         }
       ]
     },
@@ -115,10 +115,10 @@
           "name": "geographic_msgs-0.5.5-sources.jar",
           "url": "geographic_msgs-0.5.5-sources.jar",
           "size": 13249,
-          "sha512": "261e400d18b0e4f6bce5c1783c085ce8ac2cdaa9417b52953fc67fb8007dc514996124c1a0e0a64ec2f27ff845d69082eae8876239d66ef6be39abfe93530cdd",
-          "sha256": "aeebf9e44e5b9154a9ae2c76fa9d15cc41ec557aa644cb3483c4266838d48d79",
-          "sha1": "4293de4b71a3dd422677d1f874a4269107311faf",
-          "md5": "699ebc507548e5381b7f5b15fc4d8fc8"
+          "sha512": "0fc73cee225d33e9ca11f01f0c6fd6f2a4b62e453484f9bcd3e205a3607812353e77b84f948c91f3ae21a080b395adb4ece50202e7c3459b25ffa6e3aa6dfb04",
+          "sha256": "deb5f6b255d747cfaa4ba296e720262b7978f9bcd60bfb7fe58282a64207b799",
+          "sha1": "bf7eebce81bd19398da33e993a1be3bd607b00a5",
+          "md5": "6b92916929bb3d6eab335d283b5945a4"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "geographic_msgs-0.5.5-javadoc.jar",
           "url": "geographic_msgs-0.5.5-javadoc.jar",
-          "size": 177996,
-          "sha512": "5d1ad6eb63dce82c6ff5b050d26680eb26d5863d97a660bf79eb43feee9703f0a63406e17f637ad5f58b5cb6a88f0cc7f011affe0101e2fae61ee38bc7b64a6e",
-          "sha256": "cce9d9951d7d64493be661be4c692ca1f5dea4cec7ac2594036255d29a8399c5",
-          "sha1": "92dcbb78b8debd4f2589ec50c10b19f647e41bd9",
-          "md5": "c825b927c55094227f1e31953906af9a"
+          "size": 155676,
+          "sha512": "bc5ae95fb3dfd369df34668fbbe7a6fe0d4d2e950c87712d6eeadbd3abbce99384ca1b0a36e0307eb0f05c70651aa68b43320f33ba7ccd1e80a25310581568be",
+          "sha256": "93d20e60aa02edb263390588a6d19f56d8052ebfc233859c14ceccbcf134b728",
+          "sha1": "1a38b2fc85da412f1fa9fca9a1211a44afc2feab",
+          "md5": "894332be7fb792063e45cfa3d77d450f"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "graph_msgs-0.1.0.jar",
           "url": "graph_msgs-0.1.0.jar",
           "size": 1526,
-          "sha512": "3ac5d8baf1cece063950bf7d98d5a54348024ab4a3b6e43c5c2676731b6bbeac22832882b3d4fb7a78dc581cd9feae9e586ba0c0cd56e217f8a8d01704146b51",
-          "sha256": "12d20ea510a41a94a7077f21e6699987beb60518533885440cd74cbe01192250",
-          "sha1": "ee2fe540bca29a1d7c06b1ae047f2b0e802992e7",
-          "md5": "9b39363c1fff41a1cc075afc6d13765b"
+          "sha512": "b217b9888e3dfcdffb2969c83f5e76583a465eafb80250591e1fd5cb2e1a8a6c3f0396c6d41f722accd2edab9588a9918148c63c5c6ba1ccee0df98553c75052",
+          "sha256": "2f79e6ace3a6e3f810e0fc0c9c23845a1360339217d3d709e471bca14f9cb35c",
+          "sha1": "d0fc2c5c1c4db8848e5b1f5f7339c7832f234652",
+          "md5": "f5a5606e3d6fbb35468a1678e9f45b7f"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "graph_msgs-0.1.0.jar",
           "url": "graph_msgs-0.1.0.jar",
           "size": 1526,
-          "sha512": "3ac5d8baf1cece063950bf7d98d5a54348024ab4a3b6e43c5c2676731b6bbeac22832882b3d4fb7a78dc581cd9feae9e586ba0c0cd56e217f8a8d01704146b51",
-          "sha256": "12d20ea510a41a94a7077f21e6699987beb60518533885440cd74cbe01192250",
-          "sha1": "ee2fe540bca29a1d7c06b1ae047f2b0e802992e7",
-          "md5": "9b39363c1fff41a1cc075afc6d13765b"
+          "sha512": "b217b9888e3dfcdffb2969c83f5e76583a465eafb80250591e1fd5cb2e1a8a6c3f0396c6d41f722accd2edab9588a9918148c63c5c6ba1ccee0df98553c75052",
+          "sha256": "2f79e6ace3a6e3f810e0fc0c9c23845a1360339217d3d709e471bca14f9cb35c",
+          "sha1": "d0fc2c5c1c4db8848e5b1f5f7339c7832f234652",
+          "md5": "f5a5606e3d6fbb35468a1678e9f45b7f"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "graph_msgs-0.1.0-sources.jar",
           "url": "graph_msgs-0.1.0-sources.jar",
           "size": 1281,
-          "sha512": "5a492c78d7442984be940920726106c3fa69ee35a2a91dfda4da06d27f97701acf71561599220a0c73de831267815c05a69e2f4e2fad5d1ae24512eda95f63e6",
-          "sha256": "22632f9f257141a9441c0670252e00ad9bd5eeb6f0b537f72731cf96c6738fb5",
-          "sha1": "9d7c5c07d316e1a13a39d149ad449748aa3d5f21",
-          "md5": "3c66eca2f3f8956d155d02be4c71f56e"
+          "sha512": "e612ee3fc9d29edf2a01494378cc11be0ae1d338f05e0e95952d2934b7811c4c0a793586f8bfbe021576eac5174a82a55aa20e722eb966c5b7b5f35eee6d8c86",
+          "sha256": "025a9ee05aa0f88b337cdcd83a403d777fa83b0197bb38a3322765000aa6b693",
+          "sha1": "dd03d23032bf5bffce44cb2ff8934ccb20a3d9c6",
+          "md5": "8c7f62cb507d2800bf4b5f90601e5535"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "graph_msgs-0.1.0-javadoc.jar",
           "url": "graph_msgs-0.1.0-javadoc.jar",
-          "size": 110765,
-          "sha512": "b0b6cc26b2fbfdb9ceec7102b546136c78037fe650b5be1aea89c7b3d9949c660338839a43dd8fa2dadd3f83d2555755d30ca6eaf3342e333c170f5215735500",
-          "sha256": "f02cba99b22651b65343deff5531550c65c55eb1e4a70235bc4a117097424df5",
-          "sha1": "998b24326a2c24cb405abdc53ccf34293b5886ab",
-          "md5": "3ffd4a7bc6f6f82b1329756e95fd5a07"
+          "size": 87133,
+          "sha512": "e9b3a9a6e294dff5514540b5f0a92d6572621f16cc5289aedee244dd05e3729d83027287398be443b61e92779e3a979f3738d4a3cb22a94c7cf67862be6f2fcc",
+          "sha256": "84dc4fb16ecc6a4fdfa777fdca4286cef673e4e8acba9413b66b0623ffcd8aae",
+          "sha1": "2ffba285b0e4f639bd394f1fb7e89a50bc2fe395",
+          "md5": "74e4b06e4c4a550e9fcc8f0cb433acaa"
         }
       ]
     }

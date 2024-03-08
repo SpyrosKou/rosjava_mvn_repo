@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "cartographer_ros_msgs-1.0.0.jar",
           "url": "cartographer_ros_msgs-1.0.0.jar",
           "size": 27257,
-          "sha512": "1b539254bed1d83187754bd56ff048868339966c3336814c868d2bd2ac5d8ee7bc521066aa01f2068b051d9092d5d7ffc712dd554eaa86d556bbb00094e4bd37",
-          "sha256": "079087797f015e2d0d0ac125056e352d69676a70d327eacaa296537344359b03",
-          "sha1": "2ba28ec7d4ff949bb65bc107c460751194289c8b",
-          "md5": "7a5c757cbce28b40dde556406a32816a"
+          "sha512": "87632ddfc690d49806549ec8a967203a56d63edd5a58def6017f7c9c196fb466b8fc11a85d7043ab4ad22a7db3b3cd2717d3ca1f6063b178fce549ca98c7420c",
+          "sha256": "f0f744041597bb4f3c14acc321cc68802bd4712cde0364027f7b138ddd9a8210",
+          "sha1": "7f912b8bc9f62c276d2a33af4ac6e75b2ed3d2eb",
+          "md5": "988da0d2b5bee461f1c9099cc5fc0b04"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "cartographer_ros_msgs-1.0.0.jar",
           "url": "cartographer_ros_msgs-1.0.0.jar",
           "size": 27257,
-          "sha512": "1b539254bed1d83187754bd56ff048868339966c3336814c868d2bd2ac5d8ee7bc521066aa01f2068b051d9092d5d7ffc712dd554eaa86d556bbb00094e4bd37",
-          "sha256": "079087797f015e2d0d0ac125056e352d69676a70d327eacaa296537344359b03",
-          "sha1": "2ba28ec7d4ff949bb65bc107c460751194289c8b",
-          "md5": "7a5c757cbce28b40dde556406a32816a"
+          "sha512": "87632ddfc690d49806549ec8a967203a56d63edd5a58def6017f7c9c196fb466b8fc11a85d7043ab4ad22a7db3b3cd2717d3ca1f6063b178fce549ca98c7420c",
+          "sha256": "f0f744041597bb4f3c14acc321cc68802bd4712cde0364027f7b138ddd9a8210",
+          "sha1": "7f912b8bc9f62c276d2a33af4ac6e75b2ed3d2eb",
+          "md5": "988da0d2b5bee461f1c9099cc5fc0b04"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "cartographer_ros_msgs-1.0.0-sources.jar",
           "url": "cartographer_ros_msgs-1.0.0-sources.jar",
           "size": 23782,
-          "sha512": "eccb48cdc189ffe5ab7452aa8b2f200c5f4ad1089617d0504afc38b52976dae1378bbeaf5e7533e3dabf3e7e32702e4f512770984beee2f1d80814218ffe1d71",
-          "sha256": "aaf1117e6a3d66229f81d1dd4221602425ff1de5b7f580095e63b1f0d60cca80",
-          "sha1": "2c43167d095c9571eae937499df6a560878cc7b3",
-          "md5": "21c9ca39fbfa15921aa91014df618fd3"
+          "sha512": "f5150ca1f1ea77edefe696d066b784786dcb4dafab3d524c3b03e6c16eabcc649a0b3a21b11555eaffa41e41226810e1d0470ad6f899ba207a19df0127a5e8af",
+          "sha256": "4e3c432b477ec23b49512673fe1ac6f0ebdb84a699e85e3fb79019cff597ee5b",
+          "sha1": "9a472e7dd680301e1ab7df1310180e500893ec2b",
+          "md5": "4aa66276f9ca3a5aa6a23353dbad5158"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "cartographer_ros_msgs-1.0.0-javadoc.jar",
           "url": "cartographer_ros_msgs-1.0.0-javadoc.jar",
-          "size": 197961,
-          "sha512": "2d155f7cb2394422fe4908d2a4a33224b5cccb98314bfa201329719b3967a93eb17f4d5dc2c9d13e9549a2b8d8d925723d3b412ed1b761b53443626f5e186c06",
-          "sha256": "e297fa951a4dc7acc784fc84b2eecd8ae6a74416febc0155f63ed27619e68944",
-          "sha1": "64f2f9e35ac1d9440b3efb20453ac8446cd0a1e8",
-          "md5": "b916fc4cc7485e06f12fca8b16ab1a78"
+          "size": 176335,
+          "sha512": "ab0ee729b08fa805d26e7e2ee08e7c3eaf6360b15d9115001e126409f208a1bcec7782c7dc124cb6ac3abecac73d73ea366dbf73ee5cfadfaca702946f842546",
+          "sha256": "de211392767457be482a9700c80725cca10cabd9acb3b046261e0a75c94eeac3",
+          "sha1": "4ce6ff5064b8aeff14d89e5dd0033770bcae74be",
+          "md5": "af32df247ae9ddfd6133dd6483520fc4"
         }
       ]
     }

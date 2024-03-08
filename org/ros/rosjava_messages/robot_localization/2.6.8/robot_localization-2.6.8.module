@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -93,10 +93,10 @@
           "name": "robot_localization-2.6.8.jar",
           "url": "robot_localization-2.6.8.jar",
           "size": 8022,
-          "sha512": "dd49791bf8e0517d60b2b13f108f33e3ba40faea6c942abb68d608ed64c935dc32db1f0d3387ceb4fda819b467341c6b54fe5914038e407faec48135bbe99041",
-          "sha256": "1329aaf6fa3749a98c420569d6ebeaacf60a8cb4d5a812beee179f25b108823c",
-          "sha1": "2daad71b182ddddb054152334377023ba0801256",
-          "md5": "82cb89de4c0c968920625dcf927ea16a"
+          "sha512": "45505ed5c94697ca814d39349f805c44834986cdf5d023bc920d9f396745cda0ae764e001125b75828eff3a999dbb763cd61877b0aa9384c78f56220cb0bb2ec",
+          "sha256": "76700eac0c852fe3c3eb4ef8f744322b0fc33222f0ab8128deba066dfd10e737",
+          "sha1": "29267920affbcf66dbb3d0c671c3bf9f9bd8da04",
+          "md5": "ce40f320b09bd318281085d7a33cce70"
         }
       ]
     },
@@ -179,10 +179,10 @@
           "name": "robot_localization-2.6.8.jar",
           "url": "robot_localization-2.6.8.jar",
           "size": 8022,
-          "sha512": "dd49791bf8e0517d60b2b13f108f33e3ba40faea6c942abb68d608ed64c935dc32db1f0d3387ceb4fda819b467341c6b54fe5914038e407faec48135bbe99041",
-          "sha256": "1329aaf6fa3749a98c420569d6ebeaacf60a8cb4d5a812beee179f25b108823c",
-          "sha1": "2daad71b182ddddb054152334377023ba0801256",
-          "md5": "82cb89de4c0c968920625dcf927ea16a"
+          "sha512": "45505ed5c94697ca814d39349f805c44834986cdf5d023bc920d9f396745cda0ae764e001125b75828eff3a999dbb763cd61877b0aa9384c78f56220cb0bb2ec",
+          "sha256": "76700eac0c852fe3c3eb4ef8f744322b0fc33222f0ab8128deba066dfd10e737",
+          "sha1": "29267920affbcf66dbb3d0c671c3bf9f9bd8da04",
+          "md5": "ce40f320b09bd318281085d7a33cce70"
         }
       ]
     },
@@ -199,10 +199,10 @@
           "name": "robot_localization-2.6.8-sources.jar",
           "url": "robot_localization-2.6.8-sources.jar",
           "size": 6783,
-          "sha512": "4602a95ae880edae4e565b4f77334db9d67d3d860fb687c802987b06b6ea78f7ee5f9f5f39c6907f0f0003a37aaf84f2373d2deb4785632cf1220794d749a8f3",
-          "sha256": "11f6240e5e09a5e76354853338c77e9293a060d8c65771d740e200f921674f04",
-          "sha1": "5360cfd3a0a9a2e48421866dfef7f6bc1e6d3a76",
-          "md5": "a095f8c76df06105fa196a840d3d4c79"
+          "sha512": "7c1b7fdd09b239cd5f508c349f1ccb0981e6ba83dc3e4db0a7a592122abac58b75112d69bfa7e4e7665879d9f40f45a01bd562f4aed181050d19dfe0270063a9",
+          "sha256": "008674efc8dd4b4800d3ad8e159108a7bd1acac8a3d1c0f051f5879a664e76c1",
+          "sha1": "36c3fae377d87af97347d26c5abc76d4f39c9bb5",
+          "md5": "598e4ca9cb300f1b39f4af367dd1a889"
         }
       ]
     },
@@ -218,11 +218,11 @@
         {
           "name": "robot_localization-2.6.8-javadoc.jar",
           "url": "robot_localization-2.6.8-javadoc.jar",
-          "size": 147643,
-          "sha512": "e7790820f264527ae49c25d6ce1fd559c8d4fab8a07055563fa47757bed813f141fa99b0649fe117f79b7e89c2a3d593d0415f99ee5e6af132d06e66acd3602f",
-          "sha256": "3088095faa7dfa6917831f21e63ba2fb2ad54d6b3941fe7d7522c527caaada99",
-          "sha1": "bfc2882c1a836a7b26eb46267d111fa13d54be7b",
-          "md5": "e2c0ba43327f299b6173fcfd991e8657"
+          "size": 125139,
+          "sha512": "31bcafa10189af91e3fec26c6efea2d147a401dc82dda5867676612f6d334f894e51b17e0e0cc238d1ab4bd960723e505693aa9c59450c91f70b58be65167b37",
+          "sha256": "36fe439b53160e6f379bfeef4e2634288dbf654edade38db3aad7504a38f07ef",
+          "sha1": "e4809870e169607e739df4b7a8b99c48ec595982",
+          "md5": "785bcc2b0d320cef92e2980c38b13219"
         }
       ]
     }

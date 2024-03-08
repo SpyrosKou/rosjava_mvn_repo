@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "diagnostic_msgs-1.13.0.jar",
           "url": "diagnostic_msgs-1.13.0.jar",
           "size": 6067,
-          "sha512": "cd6a8b5ff69b0f3dcaa14e0e3267adddc2c2595810a37957bcbc77f04979ebf91822a36818cb52f8ffee1615eb48075a99dd3b106a3d863c72f1f789322e4fdd",
-          "sha256": "ad93783465f38e7df3af684f08a256b2f712e68145d6ab6c18c89f69ba84090e",
-          "sha1": "1ae34f3b597d33e528839f8069e6a51b6fad5a0f",
-          "md5": "a7a353e1dab3adb02401296c06cd5cfb"
+          "sha512": "b2409a0baccec01a457ef42f5a8e162bf5e9fd978478b3c3d730d8912052d40af9e2ef7112278b588aa327e292238df20be10ec6b5fe3baca4ec4ea27a4f3c2f",
+          "sha256": "5d7a04393e5c50d0d4ab7f31883904e29efd5c6832367da8422d3d1ab65a4540",
+          "sha1": "711b721b4aa269c3b37d968f94ca7c1bd9b14dcb",
+          "md5": "422d42a39088acef2a1644884a8be95f"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "diagnostic_msgs-1.13.0.jar",
           "url": "diagnostic_msgs-1.13.0.jar",
           "size": 6067,
-          "sha512": "cd6a8b5ff69b0f3dcaa14e0e3267adddc2c2595810a37957bcbc77f04979ebf91822a36818cb52f8ffee1615eb48075a99dd3b106a3d863c72f1f789322e4fdd",
-          "sha256": "ad93783465f38e7df3af684f08a256b2f712e68145d6ab6c18c89f69ba84090e",
-          "sha1": "1ae34f3b597d33e528839f8069e6a51b6fad5a0f",
-          "md5": "a7a353e1dab3adb02401296c06cd5cfb"
+          "sha512": "b2409a0baccec01a457ef42f5a8e162bf5e9fd978478b3c3d730d8912052d40af9e2ef7112278b588aa327e292238df20be10ec6b5fe3baca4ec4ea27a4f3c2f",
+          "sha256": "5d7a04393e5c50d0d4ab7f31883904e29efd5c6832367da8422d3d1ab65a4540",
+          "sha1": "711b721b4aa269c3b37d968f94ca7c1bd9b14dcb",
+          "md5": "422d42a39088acef2a1644884a8be95f"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "diagnostic_msgs-1.13.0-sources.jar",
           "url": "diagnostic_msgs-1.13.0-sources.jar",
           "size": 5155,
-          "sha512": "d3b51770c50f75d773ff1400ef6127a474b8daf002970fffe8dac99055069d38862e3e2daf3ab3465e9410d1f086c1190dfe4d29cb0b1492c2d9d37310e643dd",
-          "sha256": "893681190367794343e3caa9c0c9dab954327255885bf28b14d2351ab8627d1c",
-          "sha1": "f7c67328e28a20930697dc8598af6dd9ddae480f",
-          "md5": "037381541691c3a38df3ecf3856824fa"
+          "sha512": "340b094f3ec4c8f7fe66cec144bb588b297960601eeff6e50505e0293bccfd263430f0f90bb97ad0e61b918cfdd7dd2786f3c729cd114d6efaf4af49afc6d71e",
+          "sha256": "c2382433d3cd59af2b604a418716fb043875bd793cfcf626e8c0b41156a2f92b",
+          "sha1": "1c9744ea8b5ead281162bb725b915a1f7b34f00d",
+          "md5": "c3c542ddcbe530758d471cf3b12fcf14"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "diagnostic_msgs-1.13.0-javadoc.jar",
           "url": "diagnostic_msgs-1.13.0-javadoc.jar",
-          "size": 129255,
-          "sha512": "40306a97293e63988c57ef8dede51438479a59b5df416ba21763ee4b62fbe9ea5caa3d3c63399cf313d40480b7f7724e206706972b92e716b65cf935e011c117",
-          "sha256": "3700f5a0be07a45bd48bc3a0aae5f0a58722f9dbbe6dbcfa4fd81d5f9e0445b7",
-          "sha1": "bf7aaf5c7a79567c03be3c866d541238e2c1842c",
-          "md5": "17ee983408cc2abe92252f538a91ff1e"
+          "size": 106116,
+          "sha512": "7f33c4d47225448b03991614216f253a9d0035be16aa5e4b70cfa4dab6de35598544fa090020f3a66b1870883296b2f61874c3dbd0f0117d97a026fcadfddcdc",
+          "sha256": "ed3cabb399a1c6c5c55589d371cb65a5e27701296570f590858d1bb5f6ceea7e",
+          "sha1": "f53f4e81cd2cdcc490c213f5f874a5ae24598882",
+          "md5": "38a1be0fcbd2bd74ad5fca240bd709b6"
         }
       ]
     }

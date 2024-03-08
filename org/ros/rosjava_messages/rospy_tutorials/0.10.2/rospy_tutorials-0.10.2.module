@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "rospy_tutorials-0.10.2.jar",
           "url": "rospy_tutorials-0.10.2.jar",
           "size": 3676,
-          "sha512": "971956f205c83930ea1de740e0fcc9c447388c4cba82dd8b8274cd9678b86d37acd168fb9796e4c18e500f4352d41b0be73c0e68e554437bb55b37ed5e59ccca",
-          "sha256": "25c7db4f6e9ac15870f8098cc1bca9e60764143e1b971c858791dcbb12f728d1",
-          "sha1": "af20f93a5d86728a1ae40fcabe4ff3ae369fe5a2",
-          "md5": "2107d9f0a239ed3a4bc12989b338a22e"
+          "sha512": "bf194af4c125ff089b9d3c9cf37484ca25870ae5eb92ea4bb4c1147036c4021e0ba783ff3a9a16ce9d04fb0e718009909a0277a558fdddf93817b548b9a6df8a",
+          "sha256": "d51e58d86366b33d969ec7bea1a0581d6c522f69cc534d09f22ea9b228b1636f",
+          "sha1": "33eb283e968f63dcc339f0939c6dab31838a3659",
+          "md5": "66f7e83fa2f48dcea21680c816b31fc5"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "rospy_tutorials-0.10.2.jar",
           "url": "rospy_tutorials-0.10.2.jar",
           "size": 3676,
-          "sha512": "971956f205c83930ea1de740e0fcc9c447388c4cba82dd8b8274cd9678b86d37acd168fb9796e4c18e500f4352d41b0be73c0e68e554437bb55b37ed5e59ccca",
-          "sha256": "25c7db4f6e9ac15870f8098cc1bca9e60764143e1b971c858791dcbb12f728d1",
-          "sha1": "af20f93a5d86728a1ae40fcabe4ff3ae369fe5a2",
-          "md5": "2107d9f0a239ed3a4bc12989b338a22e"
+          "sha512": "bf194af4c125ff089b9d3c9cf37484ca25870ae5eb92ea4bb4c1147036c4021e0ba783ff3a9a16ce9d04fb0e718009909a0277a558fdddf93817b548b9a6df8a",
+          "sha256": "d51e58d86366b33d969ec7bea1a0581d6c522f69cc534d09f22ea9b228b1636f",
+          "sha1": "33eb283e968f63dcc339f0939c6dab31838a3659",
+          "md5": "66f7e83fa2f48dcea21680c816b31fc5"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "rospy_tutorials-0.10.2-sources.jar",
           "url": "rospy_tutorials-0.10.2-sources.jar",
           "size": 3110,
-          "sha512": "ea524f63dffb7374c15283950da43ebd451f6f7e626b3922dfdb66007b7db9bcf18886c2cb86596f387e1b75250f9fe3ed05ac334e64e6a08c26d51166874373",
-          "sha256": "a28b9cec47f434465f127f68017586971776df4757aa8e1358f70f1781cb98b8",
-          "sha1": "7ddd00ef8792ec15f75559a2b28d08100f7835c7",
-          "md5": "2379e78942d6d287a31c04f91de30714"
+          "sha512": "1d74849d1102b4d91dd1d8905e7a57a21e9643b0d380b64d8fecfd6a25678d2af25ea61afac4f12ba41260942d28dcdc1834c02e98ec9f32489e4f5ef19b07b1",
+          "sha256": "087f8f975f07107e7711ac9256b9d80c18dd683550fd0ead0ca43aef81b33ab1",
+          "sha1": "d469fd08f95a422686be64d6827b8c34efd93860",
+          "md5": "62e9b76988d51cf0b0937576431930a2"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "rospy_tutorials-0.10.2-javadoc.jar",
           "url": "rospy_tutorials-0.10.2-javadoc.jar",
-          "size": 124859,
-          "sha512": "a0f4d643472c968adda355f26b97bffbb9bbbd2a1bce1ced5bf908268e16da397c295fcb5346fcec8b0cf88a5fe669c3ad48dc1942ff94b48dbeadc4c2ca1278",
-          "sha256": "daf2a20eb2a9356cb4ca3779e79fd73980d219059174a46062933cc1d0480b00",
-          "sha1": "3a1c84648952aa2494614dd36bbc6f4fdf0d771f",
-          "md5": "123454dea12162305ae1b33ca3b328f1"
+          "size": 101606,
+          "sha512": "1630e2c2f930db043ab8c11e356aa1c1fdb801c0e6fdb8a1891cf112870d85e5d5424804d09c4cf2ca3fe40161039c16b85b962874d8d081e348ce42992b9654",
+          "sha256": "fe236fa44f913b7c677f298d3b3ea8a5030ca07ef169341c33676a93ae9f4b87",
+          "sha1": "017819fdde41b7526c90624a06b98c2b425b4a11",
+          "md5": "58d5f6cf79ac948a65655f38ef8e5be3"
         }
       ]
     }

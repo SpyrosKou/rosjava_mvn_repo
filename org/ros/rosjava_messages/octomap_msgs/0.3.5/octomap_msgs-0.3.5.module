@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "octomap_msgs-0.3.5.jar",
           "url": "octomap_msgs-0.3.5.jar",
           "size": 4205,
-          "sha512": "a86c53a71459f001ad8d1f4315eed2e9aa6b93e5d75abea9a0d66f41eb8b7595affdb01115871a49ebee1511d0b9e91ab1bdaca1a564c103ca30de0bb8c4b964",
-          "sha256": "4fd1eea8ba49a782b1916f0904254edcea9ec5e303c05bcb69df00b650a13cb9",
-          "sha1": "06779d61a74be701a7a902dda138fda05705a09d",
-          "md5": "6c5937ee4f52af94ac551941464cb82c"
+          "sha512": "98ea86baede7693567cee3e7b8bd12874fc15653fb19a69cb9b27e14399f4cf2ade3f6575402864b811a1ae34e76d07f3ec07fdf395249d21bdc2342f7015202",
+          "sha256": "41b7e5683a0b2ea9eb9ebf0a4dc2f6cfafdd5f36396c922f6d2fcfd96a3bb225",
+          "sha1": "d7c41018f41b4494fb845a70516f761aab4a8466",
+          "md5": "b3744fcff17b82523e61486c01036b5d"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "octomap_msgs-0.3.5.jar",
           "url": "octomap_msgs-0.3.5.jar",
           "size": 4205,
-          "sha512": "a86c53a71459f001ad8d1f4315eed2e9aa6b93e5d75abea9a0d66f41eb8b7595affdb01115871a49ebee1511d0b9e91ab1bdaca1a564c103ca30de0bb8c4b964",
-          "sha256": "4fd1eea8ba49a782b1916f0904254edcea9ec5e303c05bcb69df00b650a13cb9",
-          "sha1": "06779d61a74be701a7a902dda138fda05705a09d",
-          "md5": "6c5937ee4f52af94ac551941464cb82c"
+          "sha512": "98ea86baede7693567cee3e7b8bd12874fc15653fb19a69cb9b27e14399f4cf2ade3f6575402864b811a1ae34e76d07f3ec07fdf395249d21bdc2342f7015202",
+          "sha256": "41b7e5683a0b2ea9eb9ebf0a4dc2f6cfafdd5f36396c922f6d2fcfd96a3bb225",
+          "sha1": "d7c41018f41b4494fb845a70516f761aab4a8466",
+          "md5": "b3744fcff17b82523e61486c01036b5d"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "octomap_msgs-0.3.5-sources.jar",
           "url": "octomap_msgs-0.3.5-sources.jar",
           "size": 3535,
-          "sha512": "ecf7d8cbbacb46734384ba926a3a8309aa3d0e72e92246c88e10717b90dbc396b45f23c144c1f5c5841ae717139790a72f9036f7347bc6c5bf785cbeb8420bf7",
-          "sha256": "80025ec0f6e3155a425123e24a877d2cb8b6d90a86253c8c0b0af7d7c808d3a9",
-          "sha1": "c67e044fccf5dc165ef721ecc2416c3f9ca09b8d",
-          "md5": "813072e1d14251333bc05ce410ee0822"
+          "sha512": "fb7d5713a1dc7b01e3c334f362850d0111a50574401b6f4ac08109f12b15ccd5a9177811534d9eac77a84528298c6c723c30a2db179615bb127c5cce1958a05e",
+          "sha256": "c3140eb372d1ebcf6d99899f2db40edf171014cd619e15e17d9c0e3bf24d002f",
+          "sha1": "24b49137239f6c1679fd908c2609d7b4b09f0358",
+          "md5": "04bc800a2768d6b8769848a8ee548189"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "octomap_msgs-0.3.5-javadoc.jar",
           "url": "octomap_msgs-0.3.5-javadoc.jar",
-          "size": 124818,
-          "sha512": "eaf712653740d7fb90234350dfbb0d1ec4330ec7322cc7bb28a6bf93d2973084b8400b591083ad489cac4a05b903970a84dcd3e0f734d0f8a7b30d2137e4cf74",
-          "sha256": "bfce196439d6e50163542c94767d0f24d5219730f02eec58432922b517e08b95",
-          "sha1": "be51367944fa6d90311730622fddae53cad8b52f",
-          "md5": "31955de5ab67808cf9aa4c94515d48f3"
+          "size": 101703,
+          "sha512": "ef5b32cd145ca162aadd099ce8e551d3f6f01045529b9dc6ecfc6bcbaeebcd68abb3e008e1026096341298a6fe0234d808c384ae749fa9bab23fdbdcf07f068c",
+          "sha256": "c5f71f8568e6fe031d3fad0b30472fa76d8af87fa33feac00abe8cac9afe8d85",
+          "sha1": "a16623b3459997fcc07becd1139c7098efae669b",
+          "md5": "af27c9c1000218f59f3c22d7a403da46"
         }
       ]
     }

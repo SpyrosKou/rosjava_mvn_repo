@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "stereo_msgs-1.13.0.jar",
           "url": "stereo_msgs-1.13.0.jar",
           "size": 1502,
-          "sha512": "88fa42ac883b11dc57c1145a3d3df3de7e85d3fc7a205a8620aa1f8d87cd2349aab102e076ab8539ef1d029fa0f493502fdfdc739e9000e8c7326dee63e23daf",
-          "sha256": "ed69d025aca1f9b311a9155667be9fc44c595ac7ab5a93f6ad4063898ad305d8",
-          "sha1": "d9edf8f504797ca1871e9a832a712496b8583ca4",
-          "md5": "81a8b8f38b30fdfb95d515d71f4856d1"
+          "sha512": "d8456810d9276591fac4557acfe8ae89d67855232a5fbe13c05d5c46e019666528d935a5f3029baa34167ee66f249b7ecc78635e495d5b26091b792dc9ed3924",
+          "sha256": "d66b259520e4e42a0f884f4f69d538dbea71a967486479a6ef826c1a11971e23",
+          "sha1": "3573084a970c326207d59e634b831d1911e233c4",
+          "md5": "2966e4d85e64cc5793e8ee999ffc61e9"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "stereo_msgs-1.13.0.jar",
           "url": "stereo_msgs-1.13.0.jar",
           "size": 1502,
-          "sha512": "88fa42ac883b11dc57c1145a3d3df3de7e85d3fc7a205a8620aa1f8d87cd2349aab102e076ab8539ef1d029fa0f493502fdfdc739e9000e8c7326dee63e23daf",
-          "sha256": "ed69d025aca1f9b311a9155667be9fc44c595ac7ab5a93f6ad4063898ad305d8",
-          "sha1": "d9edf8f504797ca1871e9a832a712496b8583ca4",
-          "md5": "81a8b8f38b30fdfb95d515d71f4856d1"
+          "sha512": "d8456810d9276591fac4557acfe8ae89d67855232a5fbe13c05d5c46e019666528d935a5f3029baa34167ee66f249b7ecc78635e495d5b26091b792dc9ed3924",
+          "sha256": "d66b259520e4e42a0f884f4f69d538dbea71a967486479a6ef826c1a11971e23",
+          "sha1": "3573084a970c326207d59e634b831d1911e233c4",
+          "md5": "2966e4d85e64cc5793e8ee999ffc61e9"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "stereo_msgs-1.13.0-sources.jar",
           "url": "stereo_msgs-1.13.0-sources.jar",
           "size": 1333,
-          "sha512": "23d1b280c5283982534ccac4c48abad0fdb1ec2c696f0f3bcd76c558738f4605793af4168ca151fedd4ef8ccdf01285e1e4cefb390539b9e2756e1fd2e3ef9b1",
-          "sha256": "555dfbf8458bc495dfb796b2a9a04fcc52a0ffaebcab6c735f10c1a378a17214",
-          "sha1": "c835eb2c73057875db3ebb9b303c3eb075700001",
-          "md5": "075bce80dd8f31e3a4f5ac8f744960da"
+          "sha512": "41a30344f74443630bb4876bba2fd0fec1f9272528747453646c6284d5ab2a41cf66af121f139300c674a9c3266aab61e4ec0f11f19a9b79fe842b3296b19eac",
+          "sha256": "479fdc0e962980242b7f9d663da5092ead8977ec565fe750b46ab1fe6ab1e8ff",
+          "sha1": "0c388816fef801bb0469d8456c6d834be97cf4f9",
+          "md5": "573ab72902d305612fc04174757851f2"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "stereo_msgs-1.13.0-javadoc.jar",
           "url": "stereo_msgs-1.13.0-javadoc.jar",
-          "size": 108838,
-          "sha512": "bf8b8b930860169b9bba4c00479e4394010f2fc563d9bf7d868fce981c7a9bf530cbcb6e111e86255fa3406d894b234e1b6fde135019d81f3e342bd1e2e8aa2f",
-          "sha256": "35d1286799c8c51e2197016b5aaa580ba35f22fc5d341cea1f9065a8ec081352",
-          "sha1": "a357975a82623c3587b2611c5a77623931cac3ef",
-          "md5": "0369ed626cdce171e81ba30b2d7954fb"
+          "size": 85158,
+          "sha512": "adbc17f769f6e4f1227a30babe72b949ca4f6be7a7d0639be7ffe34f4757d042ce43af6b4ea00735d0711e1ad2fd73d580f673942edab83fd9682ef926ac0e30",
+          "sha256": "a3b6b25f6784247d9ebfbe7861b51a098e26a16c0cfffd7c8a9e403646878617",
+          "sha1": "48e55b8e222e98a16b43e27a7ee222b7266471ab",
+          "md5": "aafc5d46d14b188aa5bd9d14f4ff9f3c"
         }
       ]
     }

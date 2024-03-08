@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "sensor_msgs-1.13.0.jar",
           "url": "sensor_msgs-1.13.0.jar",
           "size": 28691,
-          "sha512": "5c4b5e8a102807e7cdc6adf682a2d0f3f33f24ebc585a04436f9b2ddd1373737d4c2a2ef9c3cd4f08fb2387cfd71c83cdb6ce242d85be1f4275038daf548f864",
-          "sha256": "074224781046ace83b70cf201bab34f6ae53e90f40b85ac75b63a9bfdf35ac63",
-          "sha1": "fa41fd6aaa609047512bfb118a5e02a13e94c871",
-          "md5": "93b1d453b4c1c4c63dcdca0fdcb41ff7"
+          "sha512": "5faa0fd715f3b5cac6574f2d42ba5bc5121aa0c750e86f9aef51f83bed03ad3e6be7bef39c6a60f967915d2de9f164b7081fb8141f9fdcb5c96e825929b772ea",
+          "sha256": "8d2467d923a898cc329ebaa58df213fcd49880bae53b1311370c5e2334434856",
+          "sha1": "1b6a373af0cdc584a2a12ba47dbc2a1f6569c913",
+          "md5": "afdb4025d8b55f05bbf57d51956ee426"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "sensor_msgs-1.13.0.jar",
           "url": "sensor_msgs-1.13.0.jar",
           "size": 28691,
-          "sha512": "5c4b5e8a102807e7cdc6adf682a2d0f3f33f24ebc585a04436f9b2ddd1373737d4c2a2ef9c3cd4f08fb2387cfd71c83cdb6ce242d85be1f4275038daf548f864",
-          "sha256": "074224781046ace83b70cf201bab34f6ae53e90f40b85ac75b63a9bfdf35ac63",
-          "sha1": "fa41fd6aaa609047512bfb118a5e02a13e94c871",
-          "md5": "93b1d453b4c1c4c63dcdca0fdcb41ff7"
+          "sha512": "5faa0fd715f3b5cac6574f2d42ba5bc5121aa0c750e86f9aef51f83bed03ad3e6be7bef39c6a60f967915d2de9f164b7081fb8141f9fdcb5c96e825929b772ea",
+          "sha256": "8d2467d923a898cc329ebaa58df213fcd49880bae53b1311370c5e2334434856",
+          "sha1": "1b6a373af0cdc584a2a12ba47dbc2a1f6569c913",
+          "md5": "afdb4025d8b55f05bbf57d51956ee426"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "sensor_msgs-1.13.0-sources.jar",
           "url": "sensor_msgs-1.13.0-sources.jar",
           "size": 24453,
-          "sha512": "52c4977ac017549d4dada465feba3e76c2722616dda836e2378bd422b5a9d3e19ad61f3c2cf69379077ab104511ed11b7debf26a2d9c91e0f5d0f76cba32c1f1",
-          "sha256": "a5039d6da6c7f22e907fe5ae29559c48f151d4a8d187cae10b6bde6c1f74e74c",
-          "sha1": "13b76a911a21ffc7341ca5763cf59465fa98687b",
-          "md5": "fe8db915f9a11217db79059e42b4f6ff"
+          "sha512": "1b24d1a61b6940278f9667c11de9dee3b0cc9efb410248868700a01354b9e97b20779dd5fc8ac36394dea3d45e32d7e9cb1c8580a016f7e7d1ff08600d1ec05f",
+          "sha256": "075c6bf2b4fe610495aa4fa364d367b9bb6de765f21f383600a007459cb84df9",
+          "sha1": "ae3c1026f0c24da1376ad4d50cd00d447213d4f7",
+          "md5": "a27dda0eb4589581b752ec354372884d"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "sensor_msgs-1.13.0-javadoc.jar",
           "url": "sensor_msgs-1.13.0-javadoc.jar",
-          "size": 208762,
-          "sha512": "fd1069265b45c9e4f6f9a7fd856f96626aa851a01c2aa3e4cfa3ff2905440cca132250bc116ca8c0309d38166dada5accd1b1314055b4adbb6ee09fda77b8927",
-          "sha256": "5af407582b06ef052b326ec279395c57eb2f1bc197a651528d645f6b561564e0",
-          "sha1": "ac5bd89a7398c8057b084bcb9e29252ee7f81f7e",
-          "md5": "3c0d5c01c721fb9d5e06c4f5dd53cd35"
+          "size": 186441,
+          "sha512": "432980ec263fe66ba545bd0d72f4e9f7276d1fd4e17bb96f5565c350a46e12d024c2d80da46340dd55c4de03a2e408dc9420b26cf4f27e27f69a8bee469361fc",
+          "sha256": "c90796f0205b695648f20daeefab42fcc1d78c08f9f21553ecc98ccc7faa5136",
+          "sha1": "aa3cb12ca87e58b2277391f2079a8d1c8bc184ee",
+          "md5": "81a072a726080b3b2567a3e3cef5a738"
         }
       ]
     }

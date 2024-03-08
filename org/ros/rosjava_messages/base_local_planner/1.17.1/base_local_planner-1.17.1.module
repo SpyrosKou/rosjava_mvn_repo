@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -86,10 +86,10 @@
           "name": "base_local_planner-1.17.1.jar",
           "url": "base_local_planner-1.17.1.jar",
           "size": 793,
-          "sha512": "ac9fdf1429c39658bd39f8744d55d07eaeb37ae9f970aa1c1354a23dfc7b27cc57fe709e3d061d67fc5bbd6e02ac2f98cc921559da6553e395b719ac0d319e59",
-          "sha256": "138203a1f4029a4bffba424a143416a78e1cea561134d384b96658a9b4dd921f",
-          "sha1": "4b1a4434afd9b9a356f602d0e117010416cfd7bb",
-          "md5": "efb854a67534ad3e047934edb16e5a2b"
+          "sha512": "57a4cea030ab09f8e605d598a2d331201ea878cff05a842977aa872cad002b24fb2309383bbf07005454120091dc6e8ad14e92b9d0a1f948c619d45a47221041",
+          "sha256": "efe9a06da78416b10006dbccb5d3667b485ff3df2fea09b573f790e365480191",
+          "sha1": "9b3b2e839a41e756e90fdb1eac7c232fe9f6350d",
+          "md5": "745a3dde628e1d5e72a57d5b49654fbc"
         }
       ]
     },
@@ -165,10 +165,10 @@
           "name": "base_local_planner-1.17.1.jar",
           "url": "base_local_planner-1.17.1.jar",
           "size": 793,
-          "sha512": "ac9fdf1429c39658bd39f8744d55d07eaeb37ae9f970aa1c1354a23dfc7b27cc57fe709e3d061d67fc5bbd6e02ac2f98cc921559da6553e395b719ac0d319e59",
-          "sha256": "138203a1f4029a4bffba424a143416a78e1cea561134d384b96658a9b4dd921f",
-          "sha1": "4b1a4434afd9b9a356f602d0e117010416cfd7bb",
-          "md5": "efb854a67534ad3e047934edb16e5a2b"
+          "sha512": "57a4cea030ab09f8e605d598a2d331201ea878cff05a842977aa872cad002b24fb2309383bbf07005454120091dc6e8ad14e92b9d0a1f948c619d45a47221041",
+          "sha256": "efe9a06da78416b10006dbccb5d3667b485ff3df2fea09b573f790e365480191",
+          "sha1": "9b3b2e839a41e756e90fdb1eac7c232fe9f6350d",
+          "md5": "745a3dde628e1d5e72a57d5b49654fbc"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "name": "base_local_planner-1.17.1-sources.jar",
           "url": "base_local_planner-1.17.1-sources.jar",
           "size": 722,
-          "sha512": "af41797984a698bb3cbd0d1f035e569b3a067c8415694039e04b6f47ab2bfda30ca70ba3d8cd6078c00f56953f052d275c0a4e5aaef4a755d1d8d021fff9fbad",
-          "sha256": "e2d9dd323e22f2884d6d84f9f89488acb4e974398e01a005a037f615584dd71e",
-          "sha1": "f8ab1bc3c8227f173c8cc6ba229fa4b3ab77aacd",
-          "md5": "4f3963d3598d4ae0895d3dcb43a6da6c"
+          "sha512": "b40111227be3b603f187e544b3ef54897796d8fd56d04124b41559232e9b9548a35f06bc005fbaf2a693bfc3a4e1b58db744723e708af11e665f148e59226c27",
+          "sha256": "06c1e0477b01902256d4adfc59d33b8ae5846b0371573b009eb9eb89fe0673b6",
+          "sha1": "12d797fe176bb63b782829fe75792de255fb493e",
+          "md5": "c7b9442698924d846e1900f05a922a2c"
         }
       ]
     },
@@ -204,11 +204,11 @@
         {
           "name": "base_local_planner-1.17.1-javadoc.jar",
           "url": "base_local_planner-1.17.1-javadoc.jar",
-          "size": 107645,
-          "sha512": "45f7c74bb3453dcb070b1ebd7262993a61102746c677f0f91e20194cccf0e8b6f2b9e76cd185ff5b842d3b17b32f887746afc0ef351b8c511a8c3086ac763e2c",
-          "sha256": "d2bed3a54e8f0cf344354252ac9dca076a0d609106cf9a6c437bb524f8eb7755",
-          "sha1": "0628265d689f0d9005676014d49ce1c953d84986",
-          "md5": "8b46fdf506660f88133166585dbe5d83"
+          "size": 83990,
+          "sha512": "b9280a17f53c7ab1e29177070c80437d3c717467665792b6ed7f9cbb6596153f26c3dfaf6b388507781f32d5f60db97baa3491c87dc12da38555a9fe0d7d07e0",
+          "sha256": "4e5045f819e04425f35129773bba1ab0780a5d1e27342dc9b2708478bbd90040",
+          "sha1": "97d6d34bf87f61481c08eaded3806bbe3d71eeb6",
+          "md5": "33b958a0a7f406703e6115273fd63365"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "bond-1.8.6.jar",
           "url": "bond-1.8.6.jar",
           "size": 1495,
-          "sha512": "1402074be389e487dd17341ad0a95fa3ad034b770dc16799efaffa967f44e11fccc07239d6407acf6b77374c39b702eb426de4d17fb2b5f7f7b28b61432a334d",
-          "sha256": "90f741a591e1a9827d1adb55c841180ec1e66f29b749da4440431bdf4f78e0c4",
-          "sha1": "ced8c5caefb47123906b88df72d638efd6cf351f",
-          "md5": "2bdfc7e2b20bce4283805fb46ebc8186"
+          "sha512": "cd6332f362fab4c787090c537f60c42d3a9d1f1bbe05825422e95ccdb9952d11cb06be4de7a03415703cb79d0d2021cb7bb9c4c4ed902001f454141c89c1a648",
+          "sha256": "8e6065bed803ef3630ad8ebf5ca82d6268170bf62a5c16baa7a1de3dc917d47e",
+          "sha1": "1aff2d572b6f0fa7e08595034eedad4f86b4c2b3",
+          "md5": "74eea547869802d24843d6a9092fe742"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "bond-1.8.6.jar",
           "url": "bond-1.8.6.jar",
           "size": 1495,
-          "sha512": "1402074be389e487dd17341ad0a95fa3ad034b770dc16799efaffa967f44e11fccc07239d6407acf6b77374c39b702eb426de4d17fb2b5f7f7b28b61432a334d",
-          "sha256": "90f741a591e1a9827d1adb55c841180ec1e66f29b749da4440431bdf4f78e0c4",
-          "sha1": "ced8c5caefb47123906b88df72d638efd6cf351f",
-          "md5": "2bdfc7e2b20bce4283805fb46ebc8186"
+          "sha512": "cd6332f362fab4c787090c537f60c42d3a9d1f1bbe05825422e95ccdb9952d11cb06be4de7a03415703cb79d0d2021cb7bb9c4c4ed902001f454141c89c1a648",
+          "sha256": "8e6065bed803ef3630ad8ebf5ca82d6268170bf62a5c16baa7a1de3dc917d47e",
+          "sha1": "1aff2d572b6f0fa7e08595034eedad4f86b4c2b3",
+          "md5": "74eea547869802d24843d6a9092fe742"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "bond-1.8.6-sources.jar",
           "url": "bond-1.8.6-sources.jar",
           "size": 1248,
-          "sha512": "99ef78da18c8dceb65bccf0cba0f823c43aa529c8f77787a850b23b316f2929979a1012bcf7c9bf0ad5021b939a881f65cb1d7e130451e9066474453455bae53",
-          "sha256": "92a0261538298fa6f80d5d35faa6819379220192f03de6661777d5f36390ba09",
-          "sha1": "8d7a43ff606156bb76a7f94afb8bdacdb0346684",
-          "md5": "50d775cb1e2028ad93a752ef9271f900"
+          "sha512": "7a42f88e6a40ba944c760e3af85567c9bfb3cf0ffc8e64a0cb52b0cedbb681f7bc294182164e4b4c03aca18109289ef406d83ee4e1f544409c3b3bf6726e2ac3",
+          "sha256": "a58312730ac89e32f6c75f089717156b47ce99fb3c5f6563392256009f481343",
+          "sha1": "6127d18f573236453e76c12b30490e793aab16da",
+          "md5": "955db65d7a69336d80f785f211f6faf2"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "bond-1.8.6-javadoc.jar",
           "url": "bond-1.8.6-javadoc.jar",
-          "size": 110796,
-          "sha512": "cc45a6cea26b31de6a45ab26bdae3fab24264bc577f9b7bcd1fff205184bbce92d525e3609ef40473d0ad7b82e367ac5a7087c0a53ee0335104eda9d14363ede",
-          "sha256": "fd836041322707454d9fc40caabd423504b7a2607d1c805fd654ebd1d01c6eba",
-          "sha1": "14d5d5109cfb71a09d7f2220883446d36afaba79",
-          "md5": "fb8568aeae41c608ed68e1c114184600"
+          "size": 87223,
+          "sha512": "dd94a4219501495f32d6964e2affb9988fc41ab580839f3a94d5ef28fa773926bf6a1e48d21ed1f3b9d0f27bf669eec74b98aee834c32b1f9e7dc848e081fee7",
+          "sha256": "7397d9f042572099aae1e5fee315e1b096e813ebb914fba27ce0fa879fcb6dfa",
+          "sha1": "d23cf69636ee7f2f76e1152bdcff5abbc8f327fb",
+          "md5": "d6272f6f9bcbb56640799d311aeb14b9"
         }
       ]
     }

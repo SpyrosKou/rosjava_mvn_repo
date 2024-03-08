@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "rosgraph_msgs-1.11.3.jar",
           "url": "rosgraph_msgs-1.11.3.jar",
           "size": 2633,
-          "sha512": "58120cfb67114770e8643ffc8ff380bdc92865ff25f53daad2fca8438c17cb276e73ac21de3c36428121feef1b1d5050ae2339e7fd30373402906aaca0de3c8a",
-          "sha256": "4e68413acc8dee40a370253458a229cef56215d39a175b09df9189f6b8dbb767",
-          "sha1": "00deb9a056e42e7a1ca7d88cb0397e10bec67356",
-          "md5": "60edd279b7f8140765343dc82b34417b"
+          "sha512": "ce8790318a129f6b3213de9ac10bd631269c7f22a4b375234938c63834d6c545e0b5e08499bddce354e18bf1b4f736f68f83ba3a5735bcde1d14fcef8a56efde",
+          "sha256": "7fe2ee5dedb94e6b1b6689d09c5e69936fc4ff530ff7c258c632641e2382ff0c",
+          "sha1": "0c78f4c18bf6d128ffab84d502f82986a7d2e439",
+          "md5": "ab137e8b03694c75716504ea6803b4d5"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "rosgraph_msgs-1.11.3.jar",
           "url": "rosgraph_msgs-1.11.3.jar",
           "size": 2633,
-          "sha512": "58120cfb67114770e8643ffc8ff380bdc92865ff25f53daad2fca8438c17cb276e73ac21de3c36428121feef1b1d5050ae2339e7fd30373402906aaca0de3c8a",
-          "sha256": "4e68413acc8dee40a370253458a229cef56215d39a175b09df9189f6b8dbb767",
-          "sha1": "00deb9a056e42e7a1ca7d88cb0397e10bec67356",
-          "md5": "60edd279b7f8140765343dc82b34417b"
+          "sha512": "ce8790318a129f6b3213de9ac10bd631269c7f22a4b375234938c63834d6c545e0b5e08499bddce354e18bf1b4f736f68f83ba3a5735bcde1d14fcef8a56efde",
+          "sha256": "7fe2ee5dedb94e6b1b6689d09c5e69936fc4ff530ff7c258c632641e2382ff0c",
+          "sha1": "0c78f4c18bf6d128ffab84d502f82986a7d2e439",
+          "md5": "ab137e8b03694c75716504ea6803b4d5"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "rosgraph_msgs-1.11.3-sources.jar",
           "url": "rosgraph_msgs-1.11.3-sources.jar",
           "size": 2155,
-          "sha512": "eff6ca429056c0ef0d2da2bd20a64302df6ff6fec334c9cf6810929dc125ca02a0fdd12f556f3f7a27e542b197693526449e9855ac20a2b74dcd4f31de93d6ac",
-          "sha256": "52f090fb772b767a9679c383ccd14e6a3c7ebb87e7f3cd7cb4911cfeda7a6812",
-          "sha1": "bffc10cf4bff8b8795d96debe45654bfba41991d",
-          "md5": "dd6e518eedbdb14ec170a71ee96084c3"
+          "sha512": "34744f7994d312e922dbf7d0cb05a8d060b7dc9ee285f4d6c01a6416dddbc5a088436f04015636920767f9691211acef0aec8a14f9b8cb48b1823b050c58ba7f",
+          "sha256": "44a69ef392705443bb98c75db318c3a957471d2964fcd98a3685393c5decc86a",
+          "sha1": "3a1dfaf384da937a5babe5c71f4216398f3cad0e",
+          "md5": "02839a24eeeca359459f032b023a15e0"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "rosgraph_msgs-1.11.3-javadoc.jar",
           "url": "rosgraph_msgs-1.11.3-javadoc.jar",
-          "size": 116014,
-          "sha512": "2365c382f67f4eadca9be966574217be08ad44183af4152921167c94959729b9a0ac76db83d9929c825ef67adfa487ccb4df55eeec983b9aebc32ac52bb251f9",
-          "sha256": "a4c33290b3d56d722607e853d7b75a1da25e64e84b6276c06bd2fd8bafccdf90",
-          "sha1": "8a8cdf4e2b5759c3faa2ac16f6a65df1deba7254",
-          "md5": "488430474d38c25cbb6618542f46ad18"
+          "size": 92441,
+          "sha512": "d5f39a619c147f00801a451b3206254224385214544bc6689f865985ab27ad5134b6ad44060c30d842c4d7feed5b18d71db1335e959e0d06a826e6a3eefe8d3c",
+          "sha256": "4d3215b5afa40b3242caba8bbe62eb87f42c8a64f0daa1b31f27190fd0c63c85",
+          "sha1": "916e276cedd7b7aafcdd04d6fba2c1bed04166e8",
+          "md5": "5574f8d05deaa018fd4c0796a6a844f0"
         }
       ]
     }

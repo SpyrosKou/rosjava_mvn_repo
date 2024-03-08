@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4.2"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "uuid_msgs-1.0.6.jar",
           "url": "uuid_msgs-1.0.6.jar",
           "size": 853,
-          "sha512": "cafc78f095360695f21aa049467982cf940b8f2f667ae0236a8acf3b04a68818c510e57a9493263549a6d122e6232f4c366e86f8eb11cd1166721805672a90c3",
-          "sha256": "908600c85b32e4d954307981e8e2f6f277e93d01ab2c4003034a4ccd31952ae6",
-          "sha1": "e90fe83e0921db6f5fa3626126aa5f5326dc9a3d",
-          "md5": "4be7f8e8e04e821c79f67ac7dc418a8a"
+          "sha512": "b3e1626e2cdcac9e7d45e56d07548d9d9d6f85fdd1eef330f8056a5f187fec37be9ee2c053c5cfddfbe144e24f1787c58df226ff27d8ae7adecd3186f7244eae",
+          "sha256": "7b11e615209210ad374c45f67fccd0947f8c162713054dd8b23cf76e0c6efff0",
+          "sha1": "a080c35dc99aeede7581b2439b492b678eadcc17",
+          "md5": "3828b1ab2ce45fac7a64c7b345990f9f"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "uuid_msgs-1.0.6.jar",
           "url": "uuid_msgs-1.0.6.jar",
           "size": 853,
-          "sha512": "cafc78f095360695f21aa049467982cf940b8f2f667ae0236a8acf3b04a68818c510e57a9493263549a6d122e6232f4c366e86f8eb11cd1166721805672a90c3",
-          "sha256": "908600c85b32e4d954307981e8e2f6f277e93d01ab2c4003034a4ccd31952ae6",
-          "sha1": "e90fe83e0921db6f5fa3626126aa5f5326dc9a3d",
-          "md5": "4be7f8e8e04e821c79f67ac7dc418a8a"
+          "sha512": "b3e1626e2cdcac9e7d45e56d07548d9d9d6f85fdd1eef330f8056a5f187fec37be9ee2c053c5cfddfbe144e24f1787c58df226ff27d8ae7adecd3186f7244eae",
+          "sha256": "7b11e615209210ad374c45f67fccd0947f8c162713054dd8b23cf76e0c6efff0",
+          "sha1": "a080c35dc99aeede7581b2439b492b678eadcc17",
+          "md5": "3828b1ab2ce45fac7a64c7b345990f9f"
         }
       ]
     },
@@ -87,10 +87,10 @@
           "name": "uuid_msgs-1.0.6-sources.jar",
           "url": "uuid_msgs-1.0.6-sources.jar",
           "size": 777,
-          "sha512": "5730e99cb6527bcc9faf9bcc87e8c17c9361038e2052f625a56139e04b187ea2c8f2ccfbb4fd9e6b868a7ec5725d98e6e0a8a74297727035eb92083a455d4c74",
-          "sha256": "c38ee8a548bdf2a7dcc048800d6bd13aa76d1561956efeaabbe1153cd22679a3",
-          "sha1": "6c625926cde36c31a1fea060d6b676b163d0bbcb",
-          "md5": "907713002574aeabb8b19fe139e58bbc"
+          "sha512": "641e3d9602d3f7ec84518365c92ee0c9ff7b13cb4f6837a7bf073e977c92383ebea4650996eb44250b512ec4af510d88d8f0f731c9ba4f6f5e2ae4dd0df52cc0",
+          "sha256": "9ab5ecd3e19e825c0b6e38a5ee50ea9ed372d3cb25d42bbf7c38585cc6f9d73d",
+          "sha1": "3f7ba6e76bd3446de681e4277a1269330d6be19f",
+          "md5": "21e68ed82606e23df77111376ea9e106"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "uuid_msgs-1.0.6-javadoc.jar",
           "url": "uuid_msgs-1.0.6-javadoc.jar",
-          "size": 107522,
-          "sha512": "33cd6124c1dcfaf052129c41a24e62d5614c3001400a0d2d13b3826eb9f4181feeb4492140fed81aa57be069b8f86476c47311315e5815873030917d93749d76",
-          "sha256": "510456b8fe3c02c45640adffa492bea4b166de659822bde7cce06ae2c5aeb207",
-          "sha1": "4b354eb1c53301605555343d13c9ab6cc631ea27",
-          "md5": "f4fe247f7e840b8ccd618856b90509cf"
+          "size": 83848,
+          "sha512": "b7cbd6c5ad39e43396baffbc91a13090a934e12f4365acf53bea4743708ad3837115d7d3e43885d209a8ef2f63d5db69d438aaad18e9405dc28f84a8a60feec7",
+          "sha256": "31818b86eddbc702434f68b0381f51db98ad52ab2b5e4620679513fd69b06eb1",
+          "sha1": "49b417404e424b40a224f29a8f38d34253c00807",
+          "md5": "be8af54a1e287c46ae7c0f197023da56"
         }
       ]
     }
