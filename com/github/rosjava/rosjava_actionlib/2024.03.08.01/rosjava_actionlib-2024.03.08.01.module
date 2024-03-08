@@ -1,0 +1,169 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.rosjava",
+    "module": "rosjava_actionlib",
+    "version": "2024.03.08.01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "actionlib_msgs",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "actionlib",
+          "version": {
+            "requires": "1.13.2"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "std_msgs",
+          "version": {
+            "requires": "0.5.13"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.25"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_actionlib-2024.03.08.01.jar",
+          "url": "rosjava_actionlib-2024.03.08.01.jar",
+          "size": 43833,
+          "sha512": "50424219b1caaf21165da615e4ced19392ef466b1c2e88b815ec3c2b9b8a119422e3e2707a04d2f2e94f2708f839368258b3ea1f2e1db628806f439bd4043780",
+          "sha256": "1fcd7d773279cd38466563e8c18dd52e7c94f05af9038041b5493e2b378faa57",
+          "sha1": "d152bf43b077389d5bfbac32cae023de65a1b8b8",
+          "md5": "bc9a115ebc40ae3ba3cb6aaeb3c03ee1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "message_generation",
+          "version": {
+            "requires": "0.3.8"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.3.8"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.12.0"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-collections4",
+          "version": {
+            "requires": "4.4"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-configuration2",
+          "version": {
+            "requires": "2.8.0"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "actionlib_msgs",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "actionlib",
+          "version": {
+            "requires": "1.13.2"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "std_msgs",
+          "version": {
+            "requires": "0.5.13"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.25"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-slf4j-impl",
+          "version": {
+            "requires": "2.20.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_actionlib-2024.03.08.01.jar",
+          "url": "rosjava_actionlib-2024.03.08.01.jar",
+          "size": 43833,
+          "sha512": "50424219b1caaf21165da615e4ced19392ef466b1c2e88b815ec3c2b9b8a119422e3e2707a04d2f2e94f2708f839368258b3ea1f2e1db628806f439bd4043780",
+          "sha256": "1fcd7d773279cd38466563e8c18dd52e7c94f05af9038041b5493e2b378faa57",
+          "sha1": "d152bf43b077389d5bfbac32cae023de65a1b8b8",
+          "md5": "bc9a115ebc40ae3ba3cb6aaeb3c03ee1"
+        }
+      ]
+    }
+  ]
+}
