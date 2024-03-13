@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava_geometry",
+    "version": "0.3.9.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosjava_geometry-0.3.9.2.jar",
+          "url": "rosjava_geometry-0.3.9.2.jar",
+          "size": 14949,
+          "sha512": "82815e81afea6d95641f7c73b8797b48d7336f3a6f64849b0f34e0aaa44f4a5243f3bcbe428460c4d8bad34425939b9a499ead1d388fd0d42774d41d559f66d2",
+          "sha256": "1af42435a3872f263b043ebaba23eb9bf4007a19580d87baa2bd8ee4a33877ce",
+          "sha1": "3088dcdffd7b60802f3e9734fa810eaaf000c9ae",
+          "md5": "b815a1647f7e3a6781d009105aff8a43"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.3.9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_geometry-0.3.9.2.jar",
+          "url": "rosjava_geometry-0.3.9.2.jar",
+          "size": 14949,
+          "sha512": "82815e81afea6d95641f7c73b8797b48d7336f3a6f64849b0f34e0aaa44f4a5243f3bcbe428460c4d8bad34425939b9a499ead1d388fd0d42774d41d559f66d2",
+          "sha256": "1af42435a3872f263b043ebaba23eb9bf4007a19580d87baa2bd8ee4a33877ce",
+          "sha1": "3088dcdffd7b60802f3e9734fa810eaaf000c9ae",
+          "md5": "b815a1647f7e3a6781d009105aff8a43"
+        }
+      ]
+    }
+  ]
+}
