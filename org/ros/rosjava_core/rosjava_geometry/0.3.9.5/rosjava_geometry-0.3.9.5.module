@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava_geometry",
+    "version": "0.3.9.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosjava_geometry-0.3.9.5.jar",
+          "url": "rosjava_geometry-0.3.9.5.jar",
+          "size": 14947,
+          "sha512": "e38766f54761ee2ca1b71b1577328e46537e0167a586371ded6ed984051da61de1524e6e9b5fb9d8af600a3be0b24c9be1d790daff100b3216a9209297ac0210",
+          "sha256": "0a68ea2f62fe6f2c26718a526ea498cf9450ad9e552d12bd96d91feab4d85b7d",
+          "sha1": "eeacfb8c856bebf4e3c54b83904c1e31199ac1f6",
+          "md5": "d91e9535a3f6733ded5352b972c09fe7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.3.9.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_geometry-0.3.9.5.jar",
+          "url": "rosjava_geometry-0.3.9.5.jar",
+          "size": 14947,
+          "sha512": "e38766f54761ee2ca1b71b1577328e46537e0167a586371ded6ed984051da61de1524e6e9b5fb9d8af600a3be0b24c9be1d790daff100b3216a9209297ac0210",
+          "sha256": "0a68ea2f62fe6f2c26718a526ea498cf9450ad9e552d12bd96d91feab4d85b7d",
+          "sha1": "eeacfb8c856bebf4e3c54b83904c1e31199ac1f6",
+          "md5": "d91e9535a3f6733ded5352b972c09fe7"
+        }
+      ]
+    }
+  ]
+}
