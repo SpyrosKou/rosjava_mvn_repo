@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava_helpers",
+    "version": "0.3.9.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 19,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosjava_helpers-0.3.9.6.jar",
+          "url": "rosjava_helpers-0.3.9.6.jar",
+          "size": 4256,
+          "sha512": "75152120d4707f30f41c961c30d9317ab45ac233544512163ee4ee39bcce8cf1cc4aaaf2df45837cba54e1a33ad1b7a4631e709358c3a1c6d6cc91d472dff085",
+          "sha256": "2acbe799c1b3246318f5296b1c60c7379f09019ec5e6810f4a43c56632f6b0b8",
+          "sha1": "f797ffbb250a02e38de5f98edcfec9359792af68",
+          "md5": "b3a2ccce6b2afa0a5fb3c752f16f0538"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 19,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.3.9.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_helpers-0.3.9.6.jar",
+          "url": "rosjava_helpers-0.3.9.6.jar",
+          "size": 4256,
+          "sha512": "75152120d4707f30f41c961c30d9317ab45ac233544512163ee4ee39bcce8cf1cc4aaaf2df45837cba54e1a33ad1b7a4631e709358c3a1c6d6cc91d472dff085",
+          "sha256": "2acbe799c1b3246318f5296b1c60c7379f09019ec5e6810f4a43c56632f6b0b8",
+          "sha1": "f797ffbb250a02e38de5f98edcfec9359792af68",
+          "md5": "b3a2ccce6b2afa0a5fb3c752f16f0538"
+        }
+      ]
+    }
+  ]
+}
