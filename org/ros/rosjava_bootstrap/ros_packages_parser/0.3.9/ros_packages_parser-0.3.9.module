@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_bootstrap",
+    "module": "ros_packages_parser",
+    "version": "0.3.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ros_packages_parser-0.3.9.jar",
+          "url": "ros_packages_parser-0.3.9.jar",
+          "size": 57189,
+          "sha512": "09d57bc99ab3d9a752fb1195bca31b8cefaa262941e799b033014506b9e3a27f629f4111424cb1680bb4853ff611bfe28d452441f17949d1a692a2e5c959ae4a",
+          "sha256": "afe901870f43a8b5d01b679e6a28508605c71cb498f97c6d6b7200406e4f7d06",
+          "sha1": "038618f32f7a4bc178119421eca4428cca711b2c",
+          "md5": "d4aef399f2743022469cbd32b23f2c61"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.36"
+          }
+        },
+        {
+          "group": "org.codehaus.groovy",
+          "module": "groovy-all",
+          "version": {
+            "requires": "3.0.21"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "message_generation",
+          "version": {
+            "requires": "0.3.9"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.3.1-jre"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.16.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ros_packages_parser-0.3.9.jar",
+          "url": "ros_packages_parser-0.3.9.jar",
+          "size": 57189,
+          "sha512": "09d57bc99ab3d9a752fb1195bca31b8cefaa262941e799b033014506b9e3a27f629f4111424cb1680bb4853ff611bfe28d452441f17949d1a692a2e5c959ae4a",
+          "sha256": "afe901870f43a8b5d01b679e6a28508605c71cb498f97c6d6b7200406e4f7d06",
+          "sha1": "038618f32f7a4bc178119421eca4428cca711b2c",
+          "md5": "d4aef399f2743022469cbd32b23f2c61"
+        }
+      ]
+    }
+  ]
+}
