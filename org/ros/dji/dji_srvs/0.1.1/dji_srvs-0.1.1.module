@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.dji",
+    "module": "dji_srvs",
+    "version": "0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dji_srvs-0.1.1.jar",
+          "url": "dji_srvs-0.1.1.jar",
+          "size": 901,
+          "sha512": "0cf0d68c72890ea3bb7529c1d51433b0874bc18433faac10e92dce6dc2cee96a278d5224bf602d7c093aa6274ade1960b01467aec9b3f9e47ded59bd4ae54155",
+          "sha256": "59b93da7cf2de35805b98f774cbc81e07535619c6774aa274800d35bd1cec44b",
+          "sha1": "bf426912dd1ccb0d9cdeb07c34a42e7d5229d413",
+          "md5": "f2f6759620fafbd958c6ebfafc99dc51"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.3.6"
+          },
+          "excludes": [
+            {
+              "group": "com.google.guava",
+              "module": "guava"
+            },
+            {
+              "group": "org.apache.ws.commons",
+              "module": "ws-commons-util"
+            }
+          ]
+        },
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "gradle_plugins",
+          "version": {
+            "requires": "0.3.3"
+          },
+          "excludes": [
+            {
+              "group": "com.google.guava",
+              "module": "guava"
+            },
+            {
+              "group": "org.apache.ws.commons",
+              "module": "ws-commons-util"
+            }
+          ]
+        },
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "message_generation",
+          "version": {
+            "requires": "0.3.3"
+          },
+          "excludes": [
+            {
+              "group": "com.google.guava",
+              "module": "guava"
+            },
+            {
+              "group": "org.apache.ws.commons",
+              "module": "ws-commons-util"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "dji_srvs-0.1.1.jar",
+          "url": "dji_srvs-0.1.1.jar",
+          "size": 901,
+          "sha512": "0cf0d68c72890ea3bb7529c1d51433b0874bc18433faac10e92dce6dc2cee96a278d5224bf602d7c093aa6274ade1960b01467aec9b3f9e47ded59bd4ae54155",
+          "sha256": "59b93da7cf2de35805b98f774cbc81e07535619c6774aa274800d35bd1cec44b",
+          "sha1": "bf426912dd1ccb0d9cdeb07c34a42e7d5229d413",
+          "md5": "f2f6759620fafbd958c6ebfafc99dc51"
+        }
+      ]
+    }
+  ]
+}
