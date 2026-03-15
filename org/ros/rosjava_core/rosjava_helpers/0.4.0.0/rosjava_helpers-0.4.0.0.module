@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava_helpers",
+    "version": "0.4.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosjava_helpers-0.4.0.0.jar",
+          "url": "rosjava_helpers-0.4.0.0.jar",
+          "size": 4257,
+          "sha512": "91bcfaf09e4a7dad3e6f419dd5614e8c748a96052a0e8d153105b5655989dc925772361fb5f7e260e118bf5bf5bf532d6ef5cfa91c35e2b21125566c83c5db08",
+          "sha256": "14e9be609dc28c4ae2afb39c2ab913b3de21e1ae7b2f5f0825a098dcccfe58e8",
+          "sha1": "ad454fb834a6d37e3b2adcd75a34ea58eb8891f9",
+          "md5": "953e9cc110eb3cc4ed06b01da5cc810c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.4.0.0"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_helpers-0.4.0.0.jar",
+          "url": "rosjava_helpers-0.4.0.0.jar",
+          "size": 4257,
+          "sha512": "91bcfaf09e4a7dad3e6f419dd5614e8c748a96052a0e8d153105b5655989dc925772361fb5f7e260e118bf5bf5bf532d6ef5cfa91c35e2b21125566c83c5db08",
+          "sha256": "14e9be609dc28c4ae2afb39c2ab913b3de21e1ae7b2f5f0825a098dcccfe58e8",
+          "sha1": "ad454fb834a6d37e3b2adcd75a34ea58eb8891f9",
+          "md5": "953e9cc110eb3cc4ed06b01da5cc810c"
+        }
+      ]
+    }
+  ]
+}
