@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava_geometry",
+    "version": "0.4.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosjava_geometry-0.4.1.1.jar",
+          "url": "rosjava_geometry-0.4.1.1.jar",
+          "size": 14947,
+          "sha512": "d5b30f1645c3820a71b492fec178324dea6c69bcc1f581120cde5a4004daecf78b1be5d1873d4999a41909b5d198426a3d6e1903badf13755884c45737bc887f",
+          "sha256": "0829db1b52b29c194be2a166ea0c23a476ae3fd50e3b31944d844b1ed9d84791",
+          "sha1": "b644d0acfaabd08e3998c78e5803d3d4d56f1dc0",
+          "md5": "51f541e5a61929eddde96bc3ed3d0c09"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_core",
+          "module": "rosjava",
+          "version": {
+            "requires": "0.4.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava_geometry-0.4.1.1.jar",
+          "url": "rosjava_geometry-0.4.1.1.jar",
+          "size": 14947,
+          "sha512": "d5b30f1645c3820a71b492fec178324dea6c69bcc1f581120cde5a4004daecf78b1be5d1873d4999a41909b5d198426a3d6e1903badf13755884c45737bc887f",
+          "sha256": "0829db1b52b29c194be2a166ea0c23a476ae3fd50e3b31944d844b1ed9d84791",
+          "sha1": "b644d0acfaabd08e3998c78e5803d3d4d56f1dc0",
+          "md5": "51f541e5a61929eddde96bc3ed3d0c09"
+        }
+      ]
+    }
+  ]
+}
