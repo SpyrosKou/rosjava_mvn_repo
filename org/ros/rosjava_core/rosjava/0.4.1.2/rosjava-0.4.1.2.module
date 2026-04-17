@@ -1,0 +1,169 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.ros.rosjava_core",
+    "module": "rosjava",
+    "version": "0.4.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "message_generation",
+          "version": {
+            "requires": "0.3.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava-0.4.1.2.jar",
+          "url": "rosjava-0.4.1.2.jar",
+          "size": 317038,
+          "sha512": "347839c0155340a37e64aef0f559b8e36d81c73f8dcaf06e1811f4293d2404fd032637cb3be596985681fed7712e5affda49cdd30f2adbcad69622199d5fb445",
+          "sha256": "fff82835c5060fa749d3da700bc82b502bab57c9ad4394c7db797ef03fb625bc",
+          "sha1": "d8ce94025490df4e2924e24f5ed790cb0faf932a",
+          "md5": "7cdc9acccfc6ffb8758d3a8ca3c7e09b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "std_msgs",
+          "version": {
+            "requires": "0.5.13"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_messages",
+          "module": "rosgraph_msgs",
+          "version": {
+            "requires": "1.11.3"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.0.0-jre"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty",
+          "version": {
+            "requires": "3.10.6.Final"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.18.0"
+          }
+        },
+        {
+          "group": "org.apache.xmlrpc",
+          "module": "xmlrpc-client",
+          "version": {
+            "requires": "3.1.3"
+          }
+        },
+        {
+          "group": "org.apache.xmlrpc",
+          "module": "xmlrpc-common",
+          "version": {
+            "requires": "3.1.3"
+          }
+        },
+        {
+          "group": "org.apache.xmlrpc",
+          "module": "xmlrpc-server",
+          "version": {
+            "requires": "3.1.3"
+          }
+        },
+        {
+          "group": "commons-httpclient",
+          "module": "commons-httpclient",
+          "version": {
+            "requires": "3.1"
+          }
+        },
+        {
+          "group": "javax.xml.bind",
+          "module": "jaxb-api",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "org.apache.ws.commons",
+          "module": "ws-commons-util",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "dnsjava",
+          "module": "dnsjava",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "commons-net",
+          "module": "commons-net",
+          "version": {
+            "requires": "3.9.0"
+          }
+        },
+        {
+          "group": "org.ros.rosjava_bootstrap",
+          "module": "message_generation",
+          "version": {
+            "requires": "0.3.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosjava-0.4.1.2.jar",
+          "url": "rosjava-0.4.1.2.jar",
+          "size": 317038,
+          "sha512": "347839c0155340a37e64aef0f559b8e36d81c73f8dcaf06e1811f4293d2404fd032637cb3be596985681fed7712e5affda49cdd30f2adbcad69622199d5fb445",
+          "sha256": "fff82835c5060fa749d3da700bc82b502bab57c9ad4394c7db797ef03fb625bc",
+          "sha1": "d8ce94025490df4e2924e24f5ed790cb0faf932a",
+          "md5": "7cdc9acccfc6ffb8758d3a8ca3c7e09b"
+        }
+      ]
+    }
+  ]
+}
